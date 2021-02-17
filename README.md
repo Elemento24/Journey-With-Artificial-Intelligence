@@ -10,7 +10,9 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Logistic Regression Practical Case Study](https://www.udemy.com/share/102R7cCEIfcVxQRXw=/)
 
 ## Interview & Live Talks
-- [Andrew Ng interviews Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE)
+- [Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE)
+- [Heroes of Deep Learning: Andrew Ng interviews Pieter Abbeel](https://youtu.be/dmkPJpWCVcI)
+- [Heroes of Deep Learning: Andrew Ng interviews Ian Goodfellow](https://youtu.be/pWAc9B2zJS4)
 - [My Journey Learning ML and AI through Self Study - Sachi Parikh](https://youtu.be/iN7cAHpBA9s)
 
 ## Research Papers Read

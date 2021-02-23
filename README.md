@@ -3,12 +3,12 @@ This repo consists of all the Resources that I followed during my Journey with P
 The **resources** include links of Courses, Youtube Videos & Playlists that I followed, Interview Talks & Live Talks that motivated me, Research Papers that I read for a better perspective of how things work, my Repositories (Course Repos/Case Studies/Projects) and much more.
 
 ## Courses 
-- <a href="https://www.udemy.com/share/101WciCEIfcVxQRXw=/" target="_blank">Machine Learning A-Z</a>
-- <a href="https://www.udemy.com/share/101XIsCEIfcVxQRXw=/" target="_blank">Machine Learning Practical: 6 Real World Applications</a>
-- <a href="https://www.udemy.com/share/102R9WCEIfcVxQRXw=/" target="_blank">Artificial Neural Network for Regression</a>
-- <a href="https://www.udemy.com/share/102R7CCEIfcVxQRXw=/" target="_blank">Natural Language Processing with BERT</a>
-- <a href="https://www.udemy.com/share/102R7cCEIfcVxQRXw=/" target="_blank">Logistic Regression Practical Case Study</a>
-- <a href="https://www.coursera.org/learn/neural-networks-deep-learning" target="_blank">Neural Networks & Deep Learning</a>
+- [Machine Learning A-Z](https://www.udemy.com/share/101WciCEIfcVxQRXw=/)
+- [Machine Learning Practical: 6 Real World Applications](https://www.udemy.com/share/101XIsCEIfcVxQRXw=/)
+- [Artificial Neural Network for Regression](https://www.udemy.com/share/102R9WCEIfcVxQRXw=/)
+- [Natural Language Processing with BERT](https://www.udemy.com/share/102R7CCEIfcVxQRXw=/)
+- [Logistic Regression Practical Case Study](https://www.udemy.com/share/102R7cCEIfcVxQRXw=/)
+- [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 
 ## Interview & Live Talks
 - [Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE)

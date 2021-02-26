@@ -10,6 +10,9 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Logistic Regression Practical Case Study](https://www.udemy.com/share/102R7cCEIfcVxQRXw=/)
 - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 
+## Youtube Videos & Playlists
+- [Open CV in 3 Hours with Python](https://youtu.be/WQeoO7MI0Bs)
+
 ## Interview & Live Talks
 - [Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE)
 - [Heroes of Deep Learning: Andrew Ng interviews Pieter Abbeel](https://youtu.be/dmkPJpWCVcI)
@@ -19,14 +22,21 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 ## Research Papers Read
 *None Yet*
 
-## Repositories
+## Course Repositories
 - [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)
 - [Logistic-Regression-Pratical-Case-Study](https://github.com/Elemento24/Logistic-Regression-Pratical-Case-Study)
 - [Natural-Language-Processing-BERT](https://github.com/Elemento24/Natural-Language-Processing-BERT)
 - [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
+- [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
+
+## Case Studies
 - [Breast-Cancer-Classification](https://github.com/Elemento24/Breast-Cancer-Classification)
 - [Fashion Class Classification](https://github.com/Elemento24/Fashion-Class-Classification)
 - [App-Behaviour-Analysis](https://github.com/Elemento24/App-Behaviour-Analysis)
 - [Churn Rate Minimization](https://github.com/Elemento24/Churn-Rate-Minimization)
 - [eSigning-Classification](https://github.com/Elemento24/eSigning-Classification)
 - [Credit-Card-Fraud-Detection](https://github.com/Elemento24/Credit-Card-Fraud-Detection)
+
+
+## Projects
+- [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)

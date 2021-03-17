@@ -9,6 +9,7 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Natural Language Processing with BERT](https://www.udemy.com/share/102R7CCEIfcVxQRXw=/)
 - [Logistic Regression Practical Case Study](https://www.udemy.com/share/102R7cCEIfcVxQRXw=/)
 - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
 
 ## Youtube Videos & Playlists
 - [Open CV in 3 Hours with Python](https://youtu.be/WQeoO7MI0Bs)
@@ -23,6 +24,7 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 
 ## Research Papers Read
 - [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)
+- [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization]()
 
 ## Course Repositories
 - [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)
@@ -30,6 +32,7 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Natural-Language-Processing-BERT](https://github.com/Elemento24/Natural-Language-Processing-BERT)
 - [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
 - [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
+- [Improving-Deep-Neural-Networks](https://github.com/Elemento24/Improving-Deep-Neural-Networks)
 
 ## Case Studies
 - [Breast-Cancer-Classification](https://github.com/Elemento24/Breast-Cancer-Classification)

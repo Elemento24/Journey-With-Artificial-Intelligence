@@ -24,7 +24,7 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 
 ## Research Papers Read
 - [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)
-- [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization]()
+- [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization](./Research%20Papers/PReLU%20&%20He-et-al%20Initialization.pdf)
 
 ## Course Repositories
 - [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)

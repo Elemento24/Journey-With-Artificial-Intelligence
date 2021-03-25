@@ -9,7 +9,8 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Natural Language Processing with BERT](https://www.udemy.com/share/102R7CCEIfcVxQRXw=/)
 - [Logistic Regression Practical Case Study](https://www.udemy.com/share/102R7cCEIfcVxQRXw=/)
 - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
-- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization](https://www.coursera.org/learn/deep-neural-network/home/welcome)
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization](https://www.coursera.org/learn/deep-neural-network)
+- [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 
 ## Youtube Videos & Playlists
 - [Open CV in 3 Hours with Python](https://youtu.be/WQeoO7MI0Bs)
@@ -20,6 +21,8 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Heroes of Deep Learning: Andrew Ng interviews Ian Goodfellow](https://youtu.be/pWAc9B2zJS4)
 - [Heroes of Deep Learning: Andrew Ng interviews Yoshua Bengio](https://youtu.be/pnTLZQhFpaE)
 - [Heroes of Deep Learning: Andrew Ng interviews Yuanqing Lin](https://youtu.be/dwFcodBz_2I)
+- [Heroes of Deep Learning: Andrej Karpathy](https://youtu.be/xxu4IqwKw0w)
+- [Heroes of Deep Learning: Ruslan Salakhutdinov](https://youtu.be/OT91E6_Qm1A)
 - [My Journey Learning ML and AI through Self Study - Sachi Parikh](https://youtu.be/iN7cAHpBA9s)
 
 ## Research Papers Read

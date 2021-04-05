@@ -48,3 +48,4 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 
 ## Projects
 - [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)
+- [OpenCV | Web-Cam Paint](https://github.com/Elemento24/OpenCV-WebCam-Paint)

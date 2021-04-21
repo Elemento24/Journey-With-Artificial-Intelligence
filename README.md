@@ -51,7 +51,7 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [OpenCV | Web-Cam Paint](https://github.com/Elemento24/OpenCV-WebCam-Paint)
 
 
-## Others
+## Other Resources
 - [Python Cheat Sheet](./Resources/Python%20Cheat%20Sheet.pdf)
 - [Data Science Questions & Answers](./Resources/Data%20Science%20QA.pdf)
 - [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)

@@ -1,6 +1,6 @@
 # Journey with Python 🐍
-This repo consists of all the Resources that I followed during my Journey with Python. **But who am I?** I am a Novice Learner, in the world of Machine Learning, Data Science, and Artificial Intelligence.  
-The **resources** include links of Courses, Youtube Videos & Playlists that I followed, Interview Talks & Live Talks that motivated me, Research Papers that I read for a better perspective of how things work, my Repositories (Course Repos/Case Studies/Projects) and much more.
+This repo consists of all the **resources** that I followed during my **Journey with Python**. **But who am I?** I am a Novice Learner, in the world of Machine Learning, Data Science, and Artificial Intelligence.  
+The **resources** include links of Courses, Youtube Videos & Playlists that I followed, Interview Talks & Live Talks that motivated me, Research Papers that I read for a better perspective of how things work, my Repositories (Course Repos/Case Studies/Projects) and many other resources that I have accumulated from the Web.
 
 ## Courses 
 - [Machine Learning A-Z](https://www.udemy.com/share/101WciCEIfcVxQRXw=/)
@@ -49,3 +49,11 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 ## Projects
 - [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)
 - [OpenCV | Web-Cam Paint](https://github.com/Elemento24/OpenCV-WebCam-Paint)
+
+
+## Others
+- [Python Cheat Sheet](./Resources/Python%20Cheat%20Sheet.pdf)
+- [Data Science Questions & Answers](./Resources/Data%20Science%20QA.pdf)
+- [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
+- [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
+- [The Data Engineering Cookbook](./Resources/The%20Data%20Engineering%20Cookbook.pdf)

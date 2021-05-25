@@ -23,6 +23,7 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Heroes of Deep Learning: Andrew Ng interviews Yuanqing Lin](https://youtu.be/dwFcodBz_2I)
 - [Heroes of Deep Learning: Andrej Karpathy](https://youtu.be/xxu4IqwKw0w)
 - [Heroes of Deep Learning: Ruslan Salakhutdinov](https://youtu.be/OT91E6_Qm1A)
+- [Heroes of Deep Learning: Andrew Ng interviews Yann LeCun](https://youtu.be/Svb1c6AkRzE)
 - [My Journey Learning ML and AI through Self Study - Sachi Parikh](https://youtu.be/iN7cAHpBA9s)
 
 ## Research Papers Read

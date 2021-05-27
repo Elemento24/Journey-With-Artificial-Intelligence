@@ -28,8 +28,9 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 
 ## Research Papers Read
 - [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)
-- [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization](./Research%20Papers/PReLU%20&%20He-et-al%20Initialization.pdf)
 - [AlexNet: Image Classification using Deep CNNs](Research%20Papers/AlexNet%20ImageNet%20Classification.pdf)
+- [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization](./Research%20Papers/PReLU%20&%20He-et-al%20Initialization.pdf)
+- [ResNet: Deep Residual Learning for Image Recognition](Research%20Papers/ResNet%20for%20Image%20Recognition.pdf)
 
 ## Course Repositories
 - [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)
@@ -59,6 +60,7 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Data Science Questions & Answers](./Resources/Data%20Science%20QA.pdf)
 - [MySQL Notes](./Resources/MySQL%20Notes.pdf)
 - [Python Cheat Sheet](./Resources/Python%20Cheat%20Sheet.pdf)
+- [Statistics for Machine Learning](./Resources/Statistics%20for%20Machine%20Learning.pdf)
 - [Tableau Visual Guide](Resources/Tableau%20Visual%20Guidebook.pdf)
 - [The Data Engineering Cookbook](./Resources/The%20Data%20Engineering%20Cookbook.pdf)
 - [The Natural Language Processing Cookbook](Resources/The%20NLP%20Cookbook.pdf)

@@ -11,6 +11,7 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
 - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization](https://www.coursera.org/learn/deep-neural-network)
 - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 
 ## Youtube Videos & Playlists
 - [Open CV in 3 Hours with Python](https://youtu.be/WQeoO7MI0Bs)
@@ -39,6 +40,7 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
 - [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
 - [Improving-Deep-Neural-Networks](https://github.com/Elemento24/Improving-Deep-Neural-Networks)
+- [Convolutional-Neural-Networks](https://github.com/Elemento24/Convolutional-Neural-Networks)
 
 ## Case Studies
 - [Breast-Cancer-Classification](https://github.com/Elemento24/Breast-Cancer-Classification)
@@ -53,14 +55,19 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)
 - [OpenCV | Web-Cam Paint](https://github.com/Elemento24/OpenCV-WebCam-Paint)
 
+## E-Books
+- [AI Crash Course](./eBooks/AI%20Crash%20Course.pdf)
+- [Alan Turing: The Enigma](./eBooks/Alan%20Turing%20The%20Enigma.pdf)
+- [Data Science Questions & Answers](./Resources/Data%20Science%20QA.pdf)
+- [Mathematics for Machine Learning](./eBooks/Mathematics%20for%20Machine%20Learning.pdf)
+- [MySQL Notes](./Resources/MySQL%20Notes.pdf)
+- [Statistics for Machine Learning](./Resources/Statistics%20for%20Machine%20Learning.pdf)
+- [Understanding Machine Learning: From Theory to Algorithms](eBooks/Understanding%20Machine%20Learning%20Theory%20Algorithms.pdf)
 
 ## Other Resources
 - [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
 - [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
-- [Data Science Questions & Answers](./Resources/Data%20Science%20QA.pdf)
-- [MySQL Notes](./Resources/MySQL%20Notes.pdf)
 - [Python Cheat Sheet](./Resources/Python%20Cheat%20Sheet.pdf)
-- [Statistics for Machine Learning](./Resources/Statistics%20for%20Machine%20Learning.pdf)
 - [Tableau Visual Guide](Resources/Tableau%20Visual%20Guidebook.pdf)
 - [The Data Engineering Cookbook](./Resources/The%20Data%20Engineering%20Cookbook.pdf)
 - [The Natural Language Processing Cookbook](Resources/The%20NLP%20Cookbook.pdf)

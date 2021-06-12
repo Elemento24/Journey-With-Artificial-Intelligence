@@ -1,6 +1,62 @@
 # Journey with Python 🐍
-This repo consists of all the **resources** that I followed during my **Journey with Python**. **But who am I?** I am a Novice Learner, in the world of Machine Learning, Data Science, and Artificial Intelligence.  
-The **resources** include links of Courses, Youtube Videos & Playlists that I followed, Interview Talks & Live Talks that motivated me, Research Papers that I read for a better perspective of how things work, my Repositories (Course Repos/Case Studies/Projects) and many other resources that I have accumulated from the Web.
+This repo consists of all the **resources** that I followed during my **Journey with Python**. **But who am I?** I am a Novice Learner, in the world of **Machine Learning**, **Deep Learning**, **Data Science**, and **Artificial Intelligence**. The **resources** include 👇
+- **Course Repositories**
+- **Case Studies**
+- **Project Repositories**
+- **E-books** for references
+- Resources for **Job Interviews**
+- Resources for **Beginners**
+- **Research Papers** that I read for a better perspective of how things work
+- Links to the **Courses**
+- **Youtube Videos and Playlists** that I followed
+- **Interview Talks** and **Live Talks** that motivated me
+
+## Course Repositories
+- [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)
+- [Logistic-Regression-Pratical-Case-Study](https://github.com/Elemento24/Logistic-Regression-Pratical-Case-Study)
+- [Natural-Language-Processing-BERT](https://github.com/Elemento24/Natural-Language-Processing-BERT)
+- [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
+- [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
+- [Improving-Deep-Neural-Networks](https://github.com/Elemento24/Improving-Deep-Neural-Networks)
+- [Convolutional-Neural-Networks](https://github.com/Elemento24/Convolutional-Neural-Networks)
+
+## Case Studies
+- [Breast-Cancer-Classification](https://github.com/Elemento24/Breast-Cancer-Classification)
+- [Fashion Class Classification](https://github.com/Elemento24/Fashion-Class-Classification)
+- [App-Behaviour-Analysis](https://github.com/Elemento24/App-Behaviour-Analysis)
+- [Churn Rate Minimization](https://github.com/Elemento24/Churn-Rate-Minimization)
+- [eSigning-Classification](https://github.com/Elemento24/eSigning-Classification)
+- [Credit-Card-Fraud-Detection](https://github.com/Elemento24/Credit-Card-Fraud-Detection)
+
+## Projects
+- [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)
+- [OpenCV | Web-Cam Paint](https://github.com/Elemento24/OpenCV-WebCam-Paint)
+
+## E-Books
+- [AI Crash Course](./eBooks/AI%20Crash%20Course.pdf)
+- [Alan Turing: The Enigma](./eBooks/Alan%20Turing%20The%20Enigma.pdf)
+- [Mathematics for Machine Learning](./eBooks/Mathematics%20for%20Machine%20Learning.pdf)
+- [Graph Algorithms](./eBooks/Neo4j%20Graph%20Algorithms.pdf)
+- [Statistics for Machine Learning](./eBooks/Statistics%20for%20Machine%20Learning.pdf)
+- [Understanding Machine Learning: From Theory to Algorithms](eBooks/Understanding%20Machine%20Learning%20Theory%20Algorithms.pdf)
+
+## Resources for Job Interviews
+- [Data Science Questions & Answers](./Resources/Data%20Science%20QA.pdf)
+- [MySQL Notes](./Resources/MySQL%20Notes.pdf)
+- [Python Cheat Sheet](./Resources/Python%20Cheat%20Sheet.pdf)
+
+## Resoucres for Beginners
+- [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
+- [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
+- [Tableau Visual Guide](Resources/Tableau%20Visual%20Guidebook.pdf)
+- [The Data Engineering Cookbook](./Resources/The%20Data%20Engineering%20Cookbook.pdf)
+- [The Natural Language Processing Cookbook](Resources/The%20NLP%20Cookbook.pdf)
+
+## Research Papers Read
+- [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)
+- [AlexNet: Image Classification using Deep CNNs](Research%20Papers/AlexNet%20ImageNet%20Classification.pdf)
+- [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization](./Research%20Papers/PReLU%20&%20He-et-al%20Initialization.pdf)
+- [ResNet: Deep Residual Learning for Image Recognition](Research%20Papers/ResNet%20for%20Image%20Recognition.pdf)
 
 ## Courses 
 - [Machine Learning A-Z](https://www.udemy.com/share/101WciCEIfcVxQRXw=/)
@@ -27,47 +83,3 @@ The **resources** include links of Courses, Youtube Videos & Playlists that I fo
 - [Heroes of Deep Learning: Andrew Ng interviews Yann LeCun](https://youtu.be/Svb1c6AkRzE)
 - [My Journey Learning ML and AI through Self Study - Sachi Parikh](https://youtu.be/iN7cAHpBA9s)
 
-## Research Papers Read
-- [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)
-- [AlexNet: Image Classification using Deep CNNs](Research%20Papers/AlexNet%20ImageNet%20Classification.pdf)
-- [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization](./Research%20Papers/PReLU%20&%20He-et-al%20Initialization.pdf)
-- [ResNet: Deep Residual Learning for Image Recognition](Research%20Papers/ResNet%20for%20Image%20Recognition.pdf)
-
-## Course Repositories
-- [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)
-- [Logistic-Regression-Pratical-Case-Study](https://github.com/Elemento24/Logistic-Regression-Pratical-Case-Study)
-- [Natural-Language-Processing-BERT](https://github.com/Elemento24/Natural-Language-Processing-BERT)
-- [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
-- [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
-- [Improving-Deep-Neural-Networks](https://github.com/Elemento24/Improving-Deep-Neural-Networks)
-- [Convolutional-Neural-Networks](https://github.com/Elemento24/Convolutional-Neural-Networks)
-
-## Case Studies
-- [Breast-Cancer-Classification](https://github.com/Elemento24/Breast-Cancer-Classification)
-- [Fashion Class Classification](https://github.com/Elemento24/Fashion-Class-Classification)
-- [App-Behaviour-Analysis](https://github.com/Elemento24/App-Behaviour-Analysis)
-- [Churn Rate Minimization](https://github.com/Elemento24/Churn-Rate-Minimization)
-- [eSigning-Classification](https://github.com/Elemento24/eSigning-Classification)
-- [Credit-Card-Fraud-Detection](https://github.com/Elemento24/Credit-Card-Fraud-Detection)
-
-
-## Projects
-- [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)
-- [OpenCV | Web-Cam Paint](https://github.com/Elemento24/OpenCV-WebCam-Paint)
-
-## E-Books
-- [AI Crash Course](./eBooks/AI%20Crash%20Course.pdf)
-- [Alan Turing: The Enigma](./eBooks/Alan%20Turing%20The%20Enigma.pdf)
-- [Data Science Questions & Answers](./Resources/Data%20Science%20QA.pdf)
-- [Mathematics for Machine Learning](./eBooks/Mathematics%20for%20Machine%20Learning.pdf)
-- [MySQL Notes](./Resources/MySQL%20Notes.pdf)
-- [Statistics for Machine Learning](./Resources/Statistics%20for%20Machine%20Learning.pdf)
-- [Understanding Machine Learning: From Theory to Algorithms](eBooks/Understanding%20Machine%20Learning%20Theory%20Algorithms.pdf)
-
-## Other Resources
-- [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
-- [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
-- [Python Cheat Sheet](./Resources/Python%20Cheat%20Sheet.pdf)
-- [Tableau Visual Guide](Resources/Tableau%20Visual%20Guidebook.pdf)
-- [The Data Engineering Cookbook](./Resources/The%20Data%20Engineering%20Cookbook.pdf)
-- [The Natural Language Processing Cookbook](Resources/The%20NLP%20Cookbook.pdf)

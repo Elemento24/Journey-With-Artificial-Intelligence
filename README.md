@@ -45,7 +45,8 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [MySQL Notes](./Resources/MySQL%20Notes.pdf)
 - [Python Cheat Sheet](./Resources/Python%20Cheat%20Sheet.pdf)
 
-## Resoucres for Beginners
+## Resources for Beginners
+- [A Brief Guide to Data Cleaning](Resources/A%20Brief%20Guide%20to%20Data%20Cleaning.pdf)
 - [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
 - [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
 - [Tableau Visual Guide](Resources/Tableau%20Visual%20Guidebook.pdf)
@@ -70,6 +71,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 
 ## Youtube Videos & Playlists
+- [Probabilistic Machine Learning](https://youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 - [Open CV in 3 Hours with Python](https://youtu.be/WQeoO7MI0Bs)
 
 ## Interview & Live Talks

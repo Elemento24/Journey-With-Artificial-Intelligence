@@ -3,6 +3,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **Course Repositories**
 - **Case Studies**
 - **Project Repositories**
+- **Articles and Blog Posts**
 - **E-books** for references
 - Resources for **Job Interviews**
 - Resources for **Beginners**
@@ -31,6 +32,10 @@ This repo consists of all the **resources** that I followed during my **Journey 
 ## Projects
 - [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)
 - [OpenCV | Web-Cam Paint](https://github.com/Elemento24/OpenCV-WebCam-Paint)
+
+## Articles and Blog Posts
+- [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
+- [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
 
 ## E-Books
 - [AI Crash Course](./eBooks/AI%20Crash%20Course.pdf)

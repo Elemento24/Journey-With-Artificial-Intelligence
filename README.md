@@ -54,6 +54,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [A Brief Guide to Data Cleaning](Resources/A%20Brief%20Guide%20to%20Data%20Cleaning.pdf)
 - [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
 - [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
+- [Introducing Data Science](Resources/Introducing%20Data%20Science.pdf)
 - [Tableau Visual Guide](Resources/Tableau%20Visual%20Guidebook.pdf)
 - [The Data Engineering Cookbook](./Resources/The%20Data%20Engineering%20Cookbook.pdf)
 - [The Natural Language Processing Cookbook](Resources/The%20NLP%20Cookbook.pdf)

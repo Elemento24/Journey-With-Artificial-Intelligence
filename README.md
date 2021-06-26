@@ -13,6 +13,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **Interview Talks** and **Live Talks** that motivated me
 
 ## Course Repositories
+- [Python3-Bootcamp](https://github.com/Elemento24/Python3-Bootcamp)
 - [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)
 - [Logistic-Regression-Pratical-Case-Study](https://github.com/Elemento24/Logistic-Regression-Pratical-Case-Study)
 - [Natural-Language-Processing-BERT](https://github.com/Elemento24/Natural-Language-Processing-BERT)
@@ -20,6 +21,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
 - [Improving-Deep-Neural-Networks](https://github.com/Elemento24/Improving-Deep-Neural-Networks)
 - [Convolutional-Neural-Networks](https://github.com/Elemento24/Convolutional-Neural-Networks)
+- [MySQL-Bootcamp](https://github.com/Elemento24/MySQL-Bootcamp)
 
 ## Case Studies
 - [Breast-Cancer-Classification](https://github.com/Elemento24/Breast-Cancer-Classification)
@@ -44,6 +46,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Graph Algorithms](./eBooks/Neo4j%20Graph%20Algorithms.pdf)
 - [Statistics for Machine Learning](./eBooks/Statistics%20for%20Machine%20Learning.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](eBooks/Understanding%20Machine%20Learning%20Theory%20Algorithms.pdf)
+- [Machine Learning Yearning: Andrew NG](eBooks/Machine%20Learning%20Yearning.pdf)
 
 ## Resources for Job Interviews
 - [Data Science Questions & Answers](./Resources/Data%20Science%20QA.pdf)
@@ -66,6 +69,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [ResNet: Deep Residual Learning for Image Recognition](Research%20Papers/ResNet%20for%20Image%20Recognition.pdf)
 
 ## Courses 
+- [The Modern Python 3 Bootcamp](https://www.udemy.com/share/101WrOCEIfcVxQRXw=/)
 - [Machine Learning A-Z](https://www.udemy.com/share/101WciCEIfcVxQRXw=/)
 - [Machine Learning Practical: 6 Real World Applications](https://www.udemy.com/share/101XIsCEIfcVxQRXw=/)
 - [Artificial Neural Network for Regression](https://www.udemy.com/share/102R9WCEIfcVxQRXw=/)
@@ -75,10 +79,13 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization](https://www.coursera.org/learn/deep-neural-network)
 - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
 - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+- [The Ultimate MySQL Bootcamp](https://www.udemy.com/share/101Wq0CEIfcVxQRXw=/)
 
 ## Youtube Videos & Playlists
 - [Probabilistic Machine Learning](https://youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
-- [Open CV in 3 Hours with Python](https://youtu.be/WQeoO7MI0Bs)
+- [Machine Learning & Computer Vision Tutorials](https://youtube.com/playlist?list=PLyI-7D0gVbJ8SmYcclvol0psopXXEUtwO)
+- [Data Structures](https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+- [Recursion | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
 
 ## Interview & Live Talks
 - [Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE)

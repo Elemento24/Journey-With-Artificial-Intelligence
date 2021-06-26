@@ -97,4 +97,3 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Heroes of Deep Learning: Ruslan Salakhutdinov](https://youtu.be/OT91E6_Qm1A)
 - [Heroes of Deep Learning: Andrew Ng interviews Yann LeCun](https://youtu.be/Svb1c6AkRzE)
 - [My Journey Learning ML and AI through Self Study - Sachi Parikh](https://youtu.be/iN7cAHpBA9s)
-

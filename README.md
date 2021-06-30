@@ -57,6 +57,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [A Brief Guide to Data Cleaning](Resources/A%20Brief%20Guide%20to%20Data%20Cleaning.pdf)
 - [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
 - [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
+- [Git Cheat Sheet](Resources/Git%20Cheat%20Sheet.pdf)
 - [Introducing Data Science](Resources/Introducing%20Data%20Science.pdf)
 - [Tableau Visual Guide](Resources/Tableau%20Visual%20Guidebook.pdf)
 - [The Data Engineering Cookbook](./Resources/The%20Data%20Engineering%20Cookbook.pdf)
@@ -82,10 +83,11 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [The Ultimate MySQL Bootcamp](https://www.udemy.com/share/101Wq0CEIfcVxQRXw=/)
 
 ## Youtube Videos & Playlists
-- [Probabilistic Machine Learning](https://youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
-- [Machine Learning & Computer Vision Tutorials](https://youtube.com/playlist?list=PLyI-7D0gVbJ8SmYcclvol0psopXXEUtwO)
 - [Data Structures](https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+- [Operating System](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+- [Probabilistic Machine Learning](https://youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 - [Recursion | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
+- [Machine Learning & Computer Vision Tutorials](https://youtube.com/playlist?list=PLyI-7D0gVbJ8SmYcclvol0psopXXEUtwO)
 
 ## Interview & Live Talks
 - [Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE)

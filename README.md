@@ -89,6 +89,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Probabilistic Machine Learning](https://youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
 - [Recursion | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
 - [Machine Learning & Computer Vision Tutorials](https://youtube.com/playlist?list=PLyI-7D0gVbJ8SmYcclvol0psopXXEUtwO)
+- [Dynamic Programming | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 
 ## Interview & Live Talks
 - [Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE)

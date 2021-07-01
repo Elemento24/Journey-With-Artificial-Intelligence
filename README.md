@@ -55,6 +55,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 
 ## Resources for Beginners
 - [A Brief Guide to Data Cleaning](Resources/A%20Brief%20Guide%20to%20Data%20Cleaning.pdf)
+- [Beginner's Guide to Analytics](Resources/Beginner's%20Guide%20to%20Analytics.pdf)
 - [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
 - [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
 - [Git Cheat Sheet](Resources/Git%20Cheat%20Sheet.pdf)

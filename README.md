@@ -1,9 +1,9 @@
-# Journey with Python 🐍
-This repo consists of all the **resources** that I followed during my **Journey with Python**. **But who am I?** I am a Novice Learner, in the world of **Machine Learning**, **Deep Learning**, **Data Science**, and **Artificial Intelligence**. The **resources** include 👇
+# Journey with Artificial Intelligence 💡
+This repo consists of all the **resources** that I followed during my **Journey with Artificial Intelligence**. **But who am I?** I am a Novice Learner, in the world of **Machine Learning**, **Deep Learning** and **Data Science**, or simply **Artificial Intelligence**. The **resources** include 👇
 - **Course Repositories**
 - **Case Studies**
 - **Project Repositories**
-- **Articles and Blog Posts**
+- **Articles** and **Blog Posts**
 - **E-books** for references
 - Resources for **Job Interviews**
 - Resources for **Beginners**
@@ -58,6 +58,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Beginner's Guide to Analytics](Resources/Beginner's%20Guide%20to%20Analytics.pdf)
 - [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
 - [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
+- [Cheat CODE: A Workbook to get you started with DSA](Resources/Cheat%20Code.pdf)
 - [Git Cheat Sheet](Resources/Git%20Cheat%20Sheet.pdf)
 - [Introducing Data Science](Resources/Introducing%20Data%20Science.pdf)
 - [Tableau Visual Guide](Resources/Tableau%20Visual%20Guidebook.pdf)

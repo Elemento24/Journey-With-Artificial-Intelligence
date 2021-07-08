@@ -59,6 +59,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
 - [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
 - [Cheat CODE: A Workbook to get you started with DSA](Resources/Cheat%20Code.pdf)
+- [Evaluating Machine Learning Models: A beginner's guide to Key Concepts and Pitfalls](./Resources/Evaluating%20Machine%20Learning%20Models.pdf)
 - [Git Cheat Sheet](Resources/Git%20Cheat%20Sheet.pdf)
 - [Introducing Data Science](Resources/Introducing%20Data%20Science.pdf)
 - [Tableau Visual Guide](Resources/Tableau%20Visual%20Guidebook.pdf)

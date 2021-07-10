@@ -13,6 +13,14 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **Youtube Videos and Playlists** that I followed
 - **Interview Talks** and **Live Talks** that motivated me
 
+## Probable Beneficiaries
+- Trying to have a **Glimpse** of AI
+- Beginners in the world of AI, like **me**
+- Looking to learn the ins & outs of AI, again like **me**
+- Planning to **Revisit** some topics
+- Stuck in a **Challenging Problem** and need some **Help**
+- Preparing for **Jobs/Internships** based on various roles in AI
+
 ## Course Repositories
 - [Python3-Bootcamp](https://github.com/Elemento24/Python3-Bootcamp)
 - [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)

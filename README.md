@@ -5,8 +5,9 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **Project Repositories**
 - **Articles** and **Blog Posts**
 - **E-books** for references
-- Resources for **Job Interviews**
 - Resources for **Beginners**
+- Resources for **Job Interviews**
+- **Cheat Sheets**
 - **Research Papers** that I read for a better perspective of how things work
 - Links to the **Courses**
 - **Youtube Videos and Playlists** that I followed
@@ -48,23 +49,27 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Understanding Machine Learning: From Theory to Algorithms](eBooks/Understanding%20Machine%20Learning%20Theory%20Algorithms.pdf)
 - [Machine Learning Yearning: Andrew NG](eBooks/Machine%20Learning%20Yearning.pdf)
 
-## Resources for Job Interviews
-- [Data Science Questions & Answers](./Resources/Data%20Science%20QA.pdf)
-- [MySQL Notes](./Resources/MySQL%20Notes.pdf)
-- [Python Cheat Sheet](./Resources/Python%20Cheat%20Sheet.pdf)
-
 ## Resources for Beginners
-- [A Brief Guide to Data Cleaning](Resources/A%20Brief%20Guide%20to%20Data%20Cleaning.pdf)
-- [Beginner's Guide to Analytics](Resources/Beginner's%20Guide%20to%20Analytics.pdf)
-- [Beginner's Guide to Mathematics of Neural Networks](./Resources/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
-- [Beginner's Guide to Tensorflow](./Resources/Beginner's%20Guide%20to%20Tensorflow.pdf)
-- [Cheat CODE: A Workbook to get you started with DSA](Resources/Cheat%20Code.pdf)
-- [Evaluating Machine Learning Models: A beginner's guide to Key Concepts and Pitfalls](./Resources/Evaluating%20Machine%20Learning%20Models.pdf)
-- [Git Cheat Sheet](Resources/Git%20Cheat%20Sheet.pdf)
-- [Introducing Data Science](Resources/Introducing%20Data%20Science.pdf)
-- [Tableau Visual Guide](Resources/Tableau%20Visual%20Guidebook.pdf)
-- [The Data Engineering Cookbook](./Resources/The%20Data%20Engineering%20Cookbook.pdf)
-- [The Natural Language Processing Cookbook](Resources/The%20NLP%20Cookbook.pdf)
+- [A Brief Guide to Data Cleaning](Beginners/A%20Brief%20Guide%20to%20Data%20Cleaning.pdf)
+- [Beginner's Guide to Analytics](Beginners/Beginner's%20Guide%20to%20Analytics.pdf)
+- [Beginner's Guide to Mathematics of Neural Networks](./Beginners/Beginner's%20Guide%20to%20Mathematics%20of%20NN.pdf)
+- [Beginner's Guide to Tensorflow](./Beginners/Beginner's%20Guide%20to%20Tensorflow.pdf)
+- [Evaluating Machine Learning Models: A Beginner's Guide to Key Concepts and Pitfalls](./Beginners/Evaluating%20Machine%20Learning%20Models.pdf)
+- [Introducing Data Science](Beginners/Introducing%20Data%20Science.pdf)
+- [Tableau Visual Guide](Beginners/Tableau%20Visual%20Guidebook.pdf)
+- [The Data Engineering Cookbook](./Beginners/The%20Data%20Engineering%20Cookbook.pdf)
+- [The Natural Language Processing Cookbook](Beginners/The%20NLP%20Cookbook.pdf)
+
+## Resources for Job Interviews
+- [Data Science Questions & Answers](./Job%20Interviews/Data%20Science%20QA.pdf)
+- [MySQL Notes](./Job%20Interviews/MySQL%20Notes.pdf)
+- [Resumes and Cover Letters](Job%20Interviews/Resumes%20and%20Cover%20Letters.pdf)
+
+## Cheat Sheets
+- [Cheat CODE: A Workbook to get you started with DSA](./Cheat%20Sheets/Cheat%20Code.pdf)
+- [Excel Cheat Sheet](./Cheat%20Sheets/Excel%20Cheat%20Sheet.pdf)
+- [Git Cheat Sheet](./Cheat%20Sheets/Git%20Cheat%20Sheet.pdf)
+- [Python Cheat Sheet](./Cheat%20Sheets/Python%20Cheat%20Sheet.pdf)
 
 ## Research Papers Read
 - [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)

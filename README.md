@@ -11,6 +11,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **Research Papers** that I read for a better perspective of how things work
 - Links to the **Courses**
 - **Youtube Videos and Playlists** that I followed
+- **Developer's Surveys** and **Trends**
 - **Interview Talks** and **Live Talks** that motivated me
 
 ## Probable Beneficiaries
@@ -105,6 +106,10 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Recursion | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
 - [Machine Learning & Computer Vision Tutorials](https://youtube.com/playlist?list=PLyI-7D0gVbJ8SmYcclvol0psopXXEUtwO)
 - [Dynamic Programming | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+
+## Developer's Surveys and Trends
+- [The Future of AI in Australia](Surveys%20and%20Trends/The%20Future%20of%20AI%20in%20Australia.pdf)
+- [The Future of Jobs in the Era of AI](./Surveys%20and%20Trends/The%20Future%20of%20Jobs%20in%20the%20Era%20of%20AI.pdf)
 
 ## Interview & Live Talks
 - [Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE)

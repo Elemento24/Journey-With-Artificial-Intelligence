@@ -70,6 +70,8 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [The Natural Language Processing Cookbook](Beginners/The%20NLP%20Cookbook.pdf)
 
 ## Resources for Job Interviews
+- [100 NLP Questions](Job%20Interviews/100%20NLP%20Questions.pdf)
+- [164 Data Science Questions & Answers](Job%20Interviews/164%20Data%20Science%20QA.pdf)
 - [Data Science Questions & Answers](./Job%20Interviews/Data%20Science%20QA.pdf)
 - [MySQL Notes](./Job%20Interviews/MySQL%20Notes.pdf)
 - [Resumes and Cover Letters](Job%20Interviews/Resumes%20and%20Cover%20Letters.pdf)

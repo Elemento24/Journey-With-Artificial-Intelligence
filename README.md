@@ -109,6 +109,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Dynamic Programming | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 
 ## Developer's Surveys and Trends
+- [AI Index Report 2021](./Surveys%20and%20Trends/AI%20Index%20Report%202021.pdf)
 - [The Future of AI in Australia](Surveys%20and%20Trends/The%20Future%20of%20AI%20in%20Australia.pdf)
 - [The Future of Jobs in the Era of AI](./Surveys%20and%20Trends/The%20Future%20of%20Jobs%20in%20the%20Era%20of%20AI.pdf)
 

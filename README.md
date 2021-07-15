@@ -52,11 +52,12 @@ This repo consists of all the **resources** that I followed during my **Journey 
 ## E-Books
 - [AI Crash Course](./eBooks/AI%20Crash%20Course.pdf)
 - [Alan Turing: The Enigma](./eBooks/Alan%20Turing%20The%20Enigma.pdf)
-- [Mathematics for Machine Learning](./eBooks/Mathematics%20for%20Machine%20Learning.pdf)
-- [Graph Algorithms](./eBooks/Neo4j%20Graph%20Algorithms.pdf)
-- [Statistics for Machine Learning](./eBooks/Statistics%20for%20Machine%20Learning.pdf)
-- [Understanding Machine Learning: From Theory to Algorithms](eBooks/Understanding%20Machine%20Learning%20Theory%20Algorithms.pdf)
 - [Machine Learning Yearning: Andrew NG](eBooks/Machine%20Learning%20Yearning.pdf)
+- [Mathematics for Machine Learning](./eBooks/Mathematics%20for%20Machine%20Learning.pdf)
+- [Neo4j Graph Algorithms](./eBooks/Neo4j%20Graph%20Algorithms.pdf)
+- [Statistics for Machine Learning](./eBooks/Statistics%20for%20Machine%20Learning.pdf)
+- [The Data Science Handbook](./eBooks/The%20Data%20Science%20Handbook.pdf)
+- [Understanding Machine Learning: From Theory to Algorithms](eBooks/Understanding%20Machine%20Learning%20Theory%20Algorithms.pdf)
 
 ## Resources for Beginners
 - [A Brief Guide to Data Cleaning](Beginners/A%20Brief%20Guide%20to%20Data%20Cleaning.pdf)

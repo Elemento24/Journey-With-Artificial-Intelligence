@@ -56,6 +56,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Mathematics for Machine Learning](./eBooks/Mathematics%20for%20Machine%20Learning.pdf)
 - [Neo4j Graph Algorithms](./eBooks/Neo4j%20Graph%20Algorithms.pdf)
 - [Statistics for Machine Learning](./eBooks/Statistics%20for%20Machine%20Learning.pdf)
+- [The Cartoon Guide to Statistics](eBooks/The%20Cartoon%20Guide%20to%20Statistics.pdf)
 - [The Data Science Handbook](./eBooks/The%20Data%20Science%20Handbook.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](eBooks/Understanding%20Machine%20Learning%20Theory%20Algorithms.pdf)
 

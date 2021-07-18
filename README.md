@@ -50,6 +50,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
 
 ## E-Books
+- [A Programmer's Guide to Data Mining](eBooks/A%20Programmer's%20Guide%20to%20Data%20Mining.pdf)
 - [AI Crash Course](./eBooks/AI%20Crash%20Course.pdf)
 - [Alan Turing: The Enigma](./eBooks/Alan%20Turing%20The%20Enigma.pdf)
 - [Machine Learning Yearning: Andrew NG](eBooks/Machine%20Learning%20Yearning.pdf)

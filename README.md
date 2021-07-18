@@ -30,6 +30,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
 - [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
 - [Improving-Deep-Neural-Networks](https://github.com/Elemento24/Improving-Deep-Neural-Networks)
+- [Structuring-Machine-Learning-Projects](https://github.com/Elemento24/Structuring-Machine-Learning-Projects)
 - [Convolutional-Neural-Networks](https://github.com/Elemento24/Convolutional-Neural-Networks)
 - [MySQL-Bootcamp](https://github.com/Elemento24/MySQL-Bootcamp)
 

@@ -7,6 +7,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **E-books** for references
 - Resources for **Beginners**
 - Resources for **Job Interviews**
+- **Notes** for references
 - **Cheat Sheets**
 - **Research Papers** that I read for a better perspective of how things work
 - Links to the **Courses**
@@ -77,8 +78,10 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [100 NLP Questions](Job%20Interviews/100%20NLP%20Questions.pdf)
 - [164 Data Science Questions & Answers](Job%20Interviews/164%20Data%20Science%20QA.pdf)
 - [Data Science Questions & Answers](./Job%20Interviews/Data%20Science%20QA.pdf)
-- [MySQL Notes](./Job%20Interviews/MySQL%20Notes.pdf)
 - [Resumes and Cover Letters](Job%20Interviews/Resumes%20and%20Cover%20Letters.pdf)
+
+## Notes
+- [MySQL Notes](./Notes/MySQL%20Notes.pdf)
 
 ## Cheat Sheets
 - [Cheat CODE: A Workbook to get you started with DSA](./Cheat%20Sheets/Cheat%20Code.pdf)

@@ -83,6 +83,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 
 ## Notes
 - [MySQL Notes](./Notes/MySQL%20Notes.pdf)
+- [R Notes](Notes/R%20Notes.pdf)
 
 ## Cheat Sheets
 - [Cheat CODE: A Workbook to get you started with DSA](./Cheat%20Sheets/Cheat%20Code.pdf)

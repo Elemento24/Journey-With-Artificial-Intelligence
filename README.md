@@ -70,6 +70,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Beginner's Guide to Tensorflow](./Beginners/Beginner's%20Guide%20to%20Tensorflow.pdf)
 - [Evaluating Machine Learning Models: A Beginner's Guide to Key Concepts and Pitfalls](./Beginners/Evaluating%20Machine%20Learning%20Models.pdf)
 - [Introducing Data Science](Beginners/Introducing%20Data%20Science.pdf)
+- [R for Beginners](Beginners/R%20for%20Beginners.pdf)
 - [Tableau Visual Guide](Beginners/Tableau%20Visual%20Guidebook.pdf)
 - [The Data Engineering Cookbook](./Beginners/The%20Data%20Engineering%20Cookbook.pdf)
 - [The Natural Language Processing Cookbook](Beginners/The%20NLP%20Cookbook.pdf)

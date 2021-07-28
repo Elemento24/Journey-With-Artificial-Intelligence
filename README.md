@@ -82,8 +82,15 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Resumes and Cover Letters](Job%20Interviews/Resumes%20and%20Cover%20Letters.pdf)
 
 ## Notes
+- [Algorithms Notes](Notes/Algorithms%20Notes.pdf)
+- [C++ Notes](Notes/C++%20Notes.pdf)
+- [Git Notes](Notes/Git%20Notes.pdf)
+- [LaTeX Notes](Notes/LaTeX%20Notes.pdf)
+- [Linux Notes](Notes/Linux%20Notes.pdf)
 - [MySQL Notes](./Notes/MySQL%20Notes.pdf)
+- [Python Notes](Notes/Python%20Notes.pdf)
 - [R Notes](Notes/R%20Notes.pdf)
+- [SQL Notes](Notes/SQL%20Notes.pdf)
 
 ## Cheat Sheets
 - [Cheat CODE: A Workbook to get you started with DSA](./Cheat%20Sheets/Cheat%20Code.pdf)

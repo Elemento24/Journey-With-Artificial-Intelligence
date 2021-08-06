@@ -124,7 +124,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Graph Theory | Part 1](https://youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
 - [Graph Theory | Part 2](https://youtube.com/playlist?list=PL2q4fbVm1Ik64I3VqbVGRfl_OgYzvzt9m)
 - [Probabilistic Machine Learning](https://youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
-- [Essential Advice for Data Science Students](https://youtube.com/playlist?list=PLKYEe2WisBTFD6uSZewb6_YM1Wqq7BwT4)
+- [Database Management System (DBMS)](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 - [Recursion | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
 - [Machine Learning & Computer Vision Tutorials](https://youtube.com/playlist?list=PLyI-7D0gVbJ8SmYcclvol0psopXXEUtwO)
 - [Dynamic Programming | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)

@@ -29,11 +29,13 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Logistic-Regression-Pratical-Case-Study](https://github.com/Elemento24/Logistic-Regression-Pratical-Case-Study)
 - [Natural-Language-Processing-BERT](https://github.com/Elemento24/Natural-Language-Processing-BERT)
 - [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
-- [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
-- [Improving-Deep-Neural-Networks](https://github.com/Elemento24/Improving-Deep-Neural-Networks)
-- [Structuring-Machine-Learning-Projects](https://github.com/Elemento24/Structuring-Machine-Learning-Projects)
-- [Convolutional-Neural-Networks](https://github.com/Elemento24/Convolutional-Neural-Networks)
 - [MySQL-Bootcamp](https://github.com/Elemento24/MySQL-Bootcamp)
+- Deep Learning Specialization
+  - [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
+  - [Improving-Deep-Neural-Networks](https://github.com/Elemento24/Improving-Deep-Neural-Networks)
+  - [Structuring-Machine-Learning-Projects](https://github.com/Elemento24/Structuring-Machine-Learning-Projects)
+  - [Convolutional-Neural-Networks](https://github.com/Elemento24/Convolutional-Neural-Networks)
+  - [Sequence Models](https://github.com/Elemento24/Sequence-Models)
 
 ## Case Studies
 - [Breast-Cancer-Classification](https://github.com/Elemento24/Breast-Cancer-Classification)
@@ -112,11 +114,14 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Artificial Neural Network for Regression](https://www.udemy.com/share/102R9WCEIfcVxQRXw=/)
 - [Natural Language Processing with BERT](https://www.udemy.com/share/102R7CCEIfcVxQRXw=/)
 - [Logistic Regression Practical Case Study](https://www.udemy.com/share/102R7cCEIfcVxQRXw=/)
-- [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
-- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization](https://www.coursera.org/learn/deep-neural-network)
-- [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
-- [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
 - [The Ultimate MySQL Bootcamp](https://www.udemy.com/share/101Wq0CEIfcVxQRXw=/)
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+  - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
+  - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization](https://www.coursera.org/learn/deep-neural-network)
+  - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
+  - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
+  - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+
 
 ## Youtube Videos & Playlists
 - [Data Structures](https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)

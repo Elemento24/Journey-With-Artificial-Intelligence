@@ -7,8 +7,9 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **E-books** for references
 - Resources for **Beginners**
 - Resources for **Job Interviews**
+- **Guides** for references
 - **Notes** for references
-- **Cheat Sheets**
+- **Cheat Sheets** for a quick revision
 - **Research Papers** that I read for a better perspective of how things work
 - Links to the **Courses**
 - **Youtube Videos and Playlists** that I followed
@@ -55,9 +56,11 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
 
 ## E-Books
-- [A Programmer's Guide to Data Mining](eBooks/A%20Programmer's%20Guide%20to%20Data%20Mining.pdf)
+- [A Course in Machine Learning](eBooks/A%20Course%20in%20Machine%20Learning.pdf)
 - [AI Crash Course](./eBooks/AI%20Crash%20Course.pdf)
 - [Alan Turing: The Enigma](./eBooks/Alan%20Turing%20The%20Enigma.pdf)
+- [An Introduction to Statistical Learning](eBooks/An%20Introduction%20to%20Statistical%20Learning.pdf)
+- [A Programmer's Guide to Data Mining](eBooks/A%20Programmer's%20Guide%20to%20Data%20Mining.pdf)
 - [Machine Learning Yearning: Andrew NG](eBooks/Machine%20Learning%20Yearning.pdf)
 - [Mathematics for Machine Learning](./eBooks/Mathematics%20for%20Machine%20Learning.pdf)
 - [Neo4j Graph Algorithms](./eBooks/Neo4j%20Graph%20Algorithms.pdf)
@@ -73,16 +76,28 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Beginner's Guide to Tensorflow](./Beginners/Beginner's%20Guide%20to%20Tensorflow.pdf)
 - [Evaluating Machine Learning Models: A Beginner's Guide to Key Concepts and Pitfalls](./Beginners/Evaluating%20Machine%20Learning%20Models.pdf)
 - [Introducing Data Science](Beginners/Introducing%20Data%20Science.pdf)
+- [Intro to Deep Learning](Beginners/Intro%20to%20Deep%20Learning.pdf)
 - [R for Beginners](Beginners/R%20for%20Beginners.pdf)
 - [Tableau Visual Guide](Beginners/Tableau%20Visual%20Guidebook.pdf)
 - [The Data Engineering Cookbook](./Beginners/The%20Data%20Engineering%20Cookbook.pdf)
 - [The Natural Language Processing Cookbook](Beginners/The%20NLP%20Cookbook.pdf)
+- [Writing Code for NLP](Beginners/Writing%20Code%20for%20NLP.pdf)
 
 ## Resources for Job Interviews
 - [100 NLP Questions](Job%20Interviews/100%20NLP%20Questions.pdf)
 - [164 Data Science Questions & Answers](Job%20Interviews/164%20Data%20Science%20QA.pdf)
 - [Data Science Questions & Answers](./Job%20Interviews/Data%20Science%20QA.pdf)
 - [Resumes and Cover Letters](Job%20Interviews/Resumes%20and%20Cover%20Letters.pdf)
+- [Ultimate Guide to DS Interviews](Job%20Interviews/Ultimate%20Guide%20to%20DS%20Interviews.pdf)
+
+## Guides
+- [10 Data Visualizations](Guides/10%20Data%20Visualizations.pdf)
+- [A Brief Guide to ML and DS](Guides/A%20Brief%20Guide%20to%20ML%20and%20DS.pdf)
+- [Which chart or graph is right for you?](Guides/Chart%20or%20Graph.pdf)
+- [List of AI Resources](Guides/List%20of%20AI%20Resources.pdf)
+- [Pet Project](Guides/Pet%20Project.pdf)
+- [Practitioner's Guide to MLOps](Guides/Practitioner's%20Guide%20to%20MLOps.pdf)
+- [Tableau Tips](Guides/Tableau%20Tips.pdf)
 
 ## Notes
 - [Algorithms Notes](Notes/Algorithms%20Notes.pdf)

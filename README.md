@@ -3,6 +3,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **Course Repositories**
 - **Case Studies**
 - **Project Repositories**
+- **Tools & Libraries** for AI
 - **Articles** and **Blog Posts**
 - **E-books** for references
 - Resources for **Beginners**
@@ -50,6 +51,15 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)
 - [OpenCV | Web-Cam Paint](https://github.com/Elemento24/OpenCV-WebCam-Paint)
 - [Smart Agriculture](https://github.com/Elemento24/Smart-Agriculture)
+
+## Tools & Libraries for AI
+- [Matplotlib: Visualization with Python](https://matplotlib.org/)
+- [NumPy: Scientific Computing with Python](https://numpy.org/)
+- [Pandas: Data Analysis & Manipulation in Python](https://pandas.pydata.org/)
+- [PyTorch: A Machine Learning Framework](https://pytorch.org/)
+- [Scikit-Learn: Machine Learning in Python](https://scikit-learn.org/stable/)
+- [Seaborn: Statistical Data Visualization](https://seaborn.pydata.org/)
+- [Tensorflow: A Machine Learning Platform](https://www.tensorflow.org/)
 
 ## Articles and Blog Posts 
 - [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)

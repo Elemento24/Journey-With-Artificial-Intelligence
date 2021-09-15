@@ -97,6 +97,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 ## Resources for Job Interviews
 - [100 NLP Questions](Job%20Interviews/100%20NLP%20Questions.pdf)
 - [164 Data Science Questions & Answers](Job%20Interviews/164%20Data%20Science%20QA.pdf)
+- [Big Data Engineering: Interview Questions & Answers](Job%20Interviews/Big%20Data%20Engineering.pdf)
 - [Data Science Questions & Answers](./Job%20Interviews/Data%20Science%20QA.pdf)
 - [Resumes and Cover Letters](Job%20Interviews/Resumes%20and%20Cover%20Letters.pdf)
 - [Ultimate Guide to DS Interviews](Job%20Interviews/Ultimate%20Guide%20to%20DS%20Interviews.pdf)
@@ -131,6 +132,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)
 - [AlexNet: Image Classification using Deep CNNs](Research%20Papers/AlexNet%20ImageNet%20Classification.pdf)
 - [Fairness Definitions Explored](Research%20Papers/Fairness%20Definitions%20Explained.pdf)
+- [How to Read a Paper](Research%20Papers/How%20to%20Read%20a%20Paper.pdf)
 - [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization](./Research%20Papers/PReLU%20&%20He-et-al%20Initialization.pdf)
 - [ResNet: Deep Residual Learning for Image Recognition](Research%20Papers/ResNet%20for%20Image%20Recognition.pdf)
 

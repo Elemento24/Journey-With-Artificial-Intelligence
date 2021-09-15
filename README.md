@@ -14,7 +14,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - Links to the **Courses**
 - **Youtube Videos and Playlists** that I followed
 - **Developer's Surveys** and **Trends**
-- **Interview Talks** and **Live Talks** that motivated me
+- **Interviews** and **Live Talks** that motivated me
 
 ## Probable Beneficiaries
 - Trying to have a **Glimpse** of AI
@@ -25,12 +25,12 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - Preparing for **Jobs/Internships** based on various roles in AI
 
 ## Course Repositories
-- [Python3-Bootcamp](https://github.com/Elemento24/Python3-Bootcamp)
-- [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)
-- [Logistic-Regression-Pratical-Case-Study](https://github.com/Elemento24/Logistic-Regression-Pratical-Case-Study)
-- [Natural-Language-Processing-BERT](https://github.com/Elemento24/Natural-Language-Processing-BERT)
 - [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
+- [Logistic-Regression-Pratical-Case-Study](https://github.com/Elemento24/Logistic-Regression-Pratical-Case-Study)
+- [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)
 - [MySQL-Bootcamp](https://github.com/Elemento24/MySQL-Bootcamp)
+- [Natural-Language-Processing-BERT](https://github.com/Elemento24/Natural-Language-Processing-BERT)
+- [Python3-Bootcamp](https://github.com/Elemento24/Python3-Bootcamp)
 - Deep Learning Specialization
   - [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
   - [Improving-Deep-Neural-Networks](https://github.com/Elemento24/Improving-Deep-Neural-Networks)
@@ -39,21 +39,22 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Sequence Models](https://github.com/Elemento24/Sequence-Models)
 
 ## Case Studies
-- [Breast-Cancer-Classification](https://github.com/Elemento24/Breast-Cancer-Classification)
-- [Fashion Class Classification](https://github.com/Elemento24/Fashion-Class-Classification)
 - [App-Behaviour-Analysis](https://github.com/Elemento24/App-Behaviour-Analysis)
+- [Breast-Cancer-Classification](https://github.com/Elemento24/Breast-Cancer-Classification)
 - [Churn Rate Minimization](https://github.com/Elemento24/Churn-Rate-Minimization)
-- [eSigning-Classification](https://github.com/Elemento24/eSigning-Classification)
 - [Credit-Card-Fraud-Detection](https://github.com/Elemento24/Credit-Card-Fraud-Detection)
+- [eSigning-Classification](https://github.com/Elemento24/eSigning-Classification)
+- [Fashion Class Classification](https://github.com/Elemento24/Fashion-Class-Classification)
 
 ## Projects
 - [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)
 - [OpenCV | Web-Cam Paint](https://github.com/Elemento24/OpenCV-WebCam-Paint)
 - [Smart Agriculture](https://github.com/Elemento24/Smart-Agriculture)
 
-## Articles and Blog Posts
-- [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
+## Articles and Blog Posts 
 - [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
+- [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
+- [Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness)
 
 ## E-Books
 - [A Course in Machine Learning](eBooks/A%20Course%20in%20Machine%20Learning.pdf)
@@ -93,11 +94,11 @@ This repo consists of all the **resources** that I followed during my **Journey 
 ## Guides
 - [10 Data Visualizations](Guides/10%20Data%20Visualizations.pdf)
 - [A Brief Guide to ML and DS](Guides/A%20Brief%20Guide%20to%20ML%20and%20DS.pdf)
-- [Which chart or graph is right for you?](Guides/Chart%20or%20Graph.pdf)
 - [List of AI Resources](Guides/List%20of%20AI%20Resources.pdf)
 - [Pet Project](Guides/Pet%20Project.pdf)
 - [Practitioner's Guide to MLOps](Guides/Practitioner's%20Guide%20to%20MLOps.pdf)
 - [Tableau Tips](Guides/Tableau%20Tips.pdf)
+- [Which chart or graph is right for you?](Guides/Chart%20or%20Graph.pdf)
 
 ## Notes
 - [Algorithms Notes](Notes/Algorithms%20Notes.pdf)
@@ -119,16 +120,17 @@ This repo consists of all the **resources** that I followed during my **Journey 
 ## Research Papers Read
 - [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)
 - [AlexNet: Image Classification using Deep CNNs](Research%20Papers/AlexNet%20ImageNet%20Classification.pdf)
+- [Fairness Definitions Explored](Research%20Papers/Fairness%20Definitions%20Explained.pdf)
 - [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization](./Research%20Papers/PReLU%20&%20He-et-al%20Initialization.pdf)
 - [ResNet: Deep Residual Learning for Image Recognition](Research%20Papers/ResNet%20for%20Image%20Recognition.pdf)
 
 ## Courses 
-- [The Modern Python 3 Bootcamp](https://www.udemy.com/share/101WrOCEIfcVxQRXw=/)
+- [Artificial Neural Network for Regression](https://www.udemy.com/share/102R9WCEIfcVxQRXw=/)
+- [Logistic Regression Practical Case Study](https://www.udemy.com/share/102R7cCEIfcVxQRXw=/)
 - [Machine Learning A-Z](https://www.udemy.com/share/101WciCEIfcVxQRXw=/)
 - [Machine Learning Practical: 6 Real World Applications](https://www.udemy.com/share/101XIsCEIfcVxQRXw=/)
-- [Artificial Neural Network for Regression](https://www.udemy.com/share/102R9WCEIfcVxQRXw=/)
 - [Natural Language Processing with BERT](https://www.udemy.com/share/102R7CCEIfcVxQRXw=/)
-- [Logistic Regression Practical Case Study](https://www.udemy.com/share/102R7cCEIfcVxQRXw=/)
+- [The Modern Python 3 Bootcamp](https://www.udemy.com/share/101WrOCEIfcVxQRXw=/)
 - [The Ultimate MySQL Bootcamp](https://www.udemy.com/share/101Wq0CEIfcVxQRXw=/)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
   - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
@@ -139,15 +141,16 @@ This repo consists of all the **resources** that I followed during my **Journey 
 
 
 ## Youtube Videos & Playlists
+- [AI Research Talks](https://youtube.com/playlist?list=PLyI-7D0gVbJ-QiTBzUDV_qoacERhk0xQl)
 - [Data Structures](https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
-- [Operating System](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+- [Database Management System (DBMS)](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
+- [Dynamic Programming | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 - [Graph Theory | Part 1](https://youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
 - [Graph Theory | Part 2](https://youtube.com/playlist?list=PL2q4fbVm1Ik64I3VqbVGRfl_OgYzvzt9m)
-- [Probabilistic Machine Learning](https://youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
-- [Database Management System (DBMS)](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
-- [Recursion | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
 - [Machine Learning & Computer Vision Tutorials](https://youtube.com/playlist?list=PLyI-7D0gVbJ8SmYcclvol0psopXXEUtwO)
-- [Dynamic Programming | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+- [Operating System](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+- [Probabilistic Machine Learning](https://youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
+- [Recursion | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
 
 ## Developer's Surveys and Trends
 - [AI Index Report 2021](./Surveys%20and%20Trends/AI%20Index%20Report%202021.pdf)
@@ -156,13 +159,13 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [The Future of Analytics](Surveys%20and%20Trends/The%20Future%20of%20Analytics.pdf)
 - [The Future of Jobs in the Era of AI](./Surveys%20and%20Trends/The%20Future%20of%20Jobs%20in%20the%20Era%20of%20AI.pdf)
 
-## Interview & Live Talks
+## Interviews & Live Talks
+- [Heroes of Deep Learning: Andrew Ng interviews Andrej Karpathy](https://youtu.be/xxu4IqwKw0w)
 - [Heroes of Deep Learning: Andrew Ng interviews Geoffrey Hinton](https://youtu.be/-eyhCTvrEtE)
-- [Heroes of Deep Learning: Andrew Ng interviews Pieter Abbeel](https://youtu.be/dmkPJpWCVcI)
 - [Heroes of Deep Learning: Andrew Ng interviews Ian Goodfellow](https://youtu.be/pWAc9B2zJS4)
+- [Heroes of Deep Learning: Andrew Ng interviews Pieter Abbeel](https://youtu.be/dmkPJpWCVcI)
+- [Heroes of Deep Learning: Andrew Ng interviews Ruslan Salakhutdinov](https://youtu.be/OT91E6_Qm1A)
+- [Heroes of Deep Learning: Andrew Ng interviews Yann LeCun](https://youtu.be/Svb1c6AkRzE)
 - [Heroes of Deep Learning: Andrew Ng interviews Yoshua Bengio](https://youtu.be/pnTLZQhFpaE)
 - [Heroes of Deep Learning: Andrew Ng interviews Yuanqing Lin](https://youtu.be/dwFcodBz_2I)
-- [Heroes of Deep Learning: Andrej Karpathy](https://youtu.be/xxu4IqwKw0w)
-- [Heroes of Deep Learning: Ruslan Salakhutdinov](https://youtu.be/OT91E6_Qm1A)
-- [Heroes of Deep Learning: Andrew Ng interviews Yann LeCun](https://youtu.be/Svb1c6AkRzE)
 - [My Journey Learning ML and AI through Self Study - Sachi Parikh](https://youtu.be/iN7cAHpBA9s)

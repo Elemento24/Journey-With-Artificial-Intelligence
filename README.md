@@ -129,6 +129,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Python Cheat Sheet](./Cheat%20Sheets/Python%20Cheat%20Sheet.pdf)
 
 ## Research Papers Read
+- [A Survey on Bias & Fairness in Machine Learning](Research%20Papers/A%20Survey%20on%20Bias%20and%20Fairness%20in%20Machine%20Learning.pdf)
 - [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)
 - [AlexNet: Image Classification using Deep CNNs](Research%20Papers/AlexNet%20ImageNet%20Classification.pdf)
 - [Fairness Definitions Explored](Research%20Papers/Fairness%20Definitions%20Explained.pdf)

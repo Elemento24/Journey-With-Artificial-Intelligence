@@ -55,16 +55,19 @@ This repo consists of all the **resources** that I followed during my **Journey 
 ## Tools & Libraries for AI
 - [Matplotlib: Visualization with Python](https://matplotlib.org/)
 - [NumPy: Scientific Computing with Python](https://numpy.org/)
+- [OpenCV: A Library with focus on Real-time applications](https://opencv.org/)
 - [Pandas: Data Analysis & Manipulation in Python](https://pandas.pydata.org/)
 - [PyTorch: A Machine Learning Framework](https://pytorch.org/)
 - [Scikit-Learn: Machine Learning in Python](https://scikit-learn.org/stable/)
 - [Seaborn: Statistical Data Visualization](https://seaborn.pydata.org/)
 - [Tensorflow: A Machine Learning Platform](https://www.tensorflow.org/)
+- [XGBoost: A Distributed Gradient-Boosting Library](https://xgboost.readthedocs.io/en/latest/#)
 
 ## Articles and Blog Posts 
 - [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
 - [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
 - [Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness)
+- [What a Machine Learning tool that turns Obama white can (and can’t) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)
 
 ## E-Books
 - [A Course in Machine Learning](eBooks/A%20Course%20in%20Machine%20Learning.pdf)
@@ -132,6 +135,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [A Survey on Bias & Fairness in Machine Learning](Research%20Papers/A%20Survey%20on%20Bias%20and%20Fairness%20in%20Machine%20Learning.pdf)
 - [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)
 - [AlexNet: Image Classification using Deep CNNs](Research%20Papers/AlexNet%20ImageNet%20Classification.pdf)
+- [Does Object Recognition work for everyone](Research%20Papers/Does%20Object%20Recognition%20work%20for%20everyone.pdf)
 - [Fairness Definitions Explored](Research%20Papers/Fairness%20Definitions%20Explained.pdf)
 - [How to Read a Paper](Research%20Papers/How%20to%20Read%20a%20Paper.pdf)
 - [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization](./Research%20Papers/PReLU%20&%20He-et-al%20Initialization.pdf)

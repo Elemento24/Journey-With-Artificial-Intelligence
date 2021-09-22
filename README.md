@@ -65,6 +65,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 
 ## Articles and Blog Posts 
 - [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
+- [GAN - StyleGAN & StyleGAN2](https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299)
 - [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
 - [Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness)
 - [What a Machine Learning tool that turns Obama white can (and can’t) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)

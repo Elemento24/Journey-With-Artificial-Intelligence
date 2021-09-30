@@ -28,7 +28,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 
 ## Kaggle Competitions
 - Kaggle Competitions are a great way to break into the world of Data Science and Machine Learning.
-- [Here](Kaggle/KAGGLE.md), you can find out the the various resources for all the Kaggle Competitions, that I have participated in till now.
+- [Here](Kaggle/README.md), you can find out the the various resources for all the Kaggle Competitions, that I have participated in till now.
 - These resources include **Articles, Blog Posts, Kaggle Discussions, Kaggle Kernels**, and whatever else, I find to be apt for any given competition.
 
 ## Course Repositories

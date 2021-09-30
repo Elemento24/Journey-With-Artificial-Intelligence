@@ -122,6 +122,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Practitioner's Guide to MLOps](Guides/Practitioner's%20Guide%20to%20MLOps.pdf)
 - [Tableau Tips](Guides/Tableau%20Tips.pdf)
 - [Which chart or graph is right for you?](Guides/Chart%20or%20Graph.pdf)
+- [The Ultimate Guide to Effective Data Collection](Guides/The%20Ultimate%20Guide%20to%20Effective%20Data%20Collection.pdf)
 
 ## Notes
 - [Algorithms Notes](Notes/Algorithms%20Notes.pdf)

@@ -139,6 +139,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Cheat CODE: A Workbook to get you started with DSA](./Cheat%20Sheets/Cheat%20Code.pdf)
 - [Excel Cheat Sheet](./Cheat%20Sheets/Excel%20Cheat%20Sheet.pdf)
 - [Git Cheat Sheet](./Cheat%20Sheets/Git%20Cheat%20Sheet.pdf)
+- [Machine Learning Cheat Sheet](Cheat%20Sheets/Machine%20Learning%20Cheat%20Sheet.pdf)
 - [Python Cheat Sheet](./Cheat%20Sheets/PCS_1.pdf)
 - [Python Cheat Sheet](./Cheat%20Sheets/PCS_2.pdf)
 

@@ -1,5 +1,6 @@
 # Journey with Artificial Intelligence 💡
 This repo consists of all the **resources** that I followed during my **Journey with Artificial Intelligence**. **But who am I?** I am a Novice Learner, in the world of **Machine Learning**, **Deep Learning** and **Data Science**, or simply **Artificial Intelligence**. The **resources** include 👇
+- **Kaggle Competitions**
 - **Course Repositories**
 - **Case Studies**
 - **Project Repositories**
@@ -24,6 +25,11 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - Planning to **Revisit** some topics
 - Stuck in a **Challenging Problem** and need some **Help**
 - Preparing for **Jobs/Internships** based on various roles in AI
+
+## Kaggle Competitions
+- Kaggle Competitions are a great way to break into the world of Data Science and Machine Learning.
+- [Here](Kaggle/KAGGLE.md), you can find out the the various resources for all the Kaggle Competitions, that I have participated in till now.
+- These resources include **Articles, Blog Posts, Kaggle Discussions, Kaggle Kernels**, and whatever else, I find to be apt for any given competition.
 
 ## Course Repositories
 - [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
@@ -79,6 +85,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Machine Learning Yearning: Andrew NG](eBooks/Machine%20Learning%20Yearning.pdf)
 - [Mathematics for Machine Learning](./eBooks/Mathematics%20for%20Machine%20Learning.pdf)
 - [Neo4j Graph Algorithms](./eBooks/Neo4j%20Graph%20Algorithms.pdf)
+- [Object Oriented Programming with Python](eBooks/Object%20Oriented%20Programming%20with%20Python.pdf)
 - [Statistics for Machine Learning](./eBooks/Statistics%20for%20Machine%20Learning.pdf)
 - [The Cartoon Guide to Statistics](eBooks/The%20Cartoon%20Guide%20to%20Statistics.pdf)
 - [The Data Science Handbook](./eBooks/The%20Data%20Science%20Handbook.pdf)

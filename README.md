@@ -138,7 +138,8 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Cheat CODE: A Workbook to get you started with DSA](./Cheat%20Sheets/Cheat%20Code.pdf)
 - [Excel Cheat Sheet](./Cheat%20Sheets/Excel%20Cheat%20Sheet.pdf)
 - [Git Cheat Sheet](./Cheat%20Sheets/Git%20Cheat%20Sheet.pdf)
-- [Python Cheat Sheet](./Cheat%20Sheets/Python%20Cheat%20Sheet.pdf)
+- [Python Cheat Sheet](./Cheat%20Sheets/PCS_1.pdf)
+- [Python Cheat Sheet](./Cheat%20Sheets/PCS_2.pdf)
 
 ## Research Papers Read
 - [A Survey on Bias & Fairness in Machine Learning](Research%20Papers/A%20Survey%20on%20Bias%20and%20Fairness%20in%20Machine%20Learning.pdf)

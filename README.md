@@ -17,6 +17,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **Youtube Videos and Playlists** that I followed
 - **Developer's Surveys** and **Trends**
 - **Interviews** and **Live Talks** that motivated me
+- **Miscellaneous** resources
 
 ## Probable Beneficiaries
 - Trying to have a **Glimpse** of AI
@@ -59,6 +60,8 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Smart Agriculture](https://github.com/Elemento24/Smart-Agriculture)
 
 ## Tools & Libraries for AI
+- [CatBoost: Gradient Boosting on Decision Trees](https://catboost.ai/)
+- [Category Encoders: For encoding Categorical Variables](https://contrib.scikit-learn.org/category_encoders/index.html)
 - [Matplotlib: Visualization with Python](https://matplotlib.org/)
 - [NumPy: Scientific Computing with Python](https://numpy.org/)
 - [OpenCV: A Library with focus on Real-time applications](https://opencv.org/)
@@ -74,6 +77,8 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [GAN - StyleGAN & StyleGAN2](https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299)
 - [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
 - [Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness)
+- [The Great Debate: Is it Linux or GNU/Linux?](https://www.howtogeek.com/139287/the-great-debate-is-it-linux-or-gnulinux/)
+- [The Strange Birth and Long Life of UNIX](https://spectrum.ieee.org/the-strange-birth-and-long-life-of-unix)
 - [What a Machine Learning tool that turns Obama white can (and can’t) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)
 
 ## E-Books
@@ -198,3 +203,6 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Heroes of Deep Learning: Andrew Ng interviews Yoshua Bengio](https://youtu.be/pnTLZQhFpaE)
 - [Heroes of Deep Learning: Andrew Ng interviews Yuanqing Lin](https://youtu.be/dwFcodBz_2I)
 - [My Journey Learning ML and AI through Self Study - Sachi Parikh](https://youtu.be/iN7cAHpBA9s)
+
+## Miscellaneous Resources
+- [Operating Systems: Timeline and Family Tree](https://eylenburg.github.io/os_familytree.htm)

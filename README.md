@@ -94,6 +94,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Alan Turing: The Enigma](./eBooks/Alan%20Turing%20The%20Enigma.pdf)
 - [An Introduction to Statistical Learning](eBooks/An%20Introduction%20to%20Statistical%20Learning.pdf)
 - [A Programmer's Guide to Data Mining](eBooks/A%20Programmer's%20Guide%20to%20Data%20Mining.pdf)
+- [Introduction to Probability for Data Science](eBooks/Introduction%20to%20Probability%20for%20Data%20Science.pdf)
 - [Learning SQL](eBooks/Learning%20SQL.pdf)
 - [Machine Learning Yearning: Andrew NG](eBooks/Machine%20Learning%20Yearning.pdf)
 - [Mathematics for Machine Learning](./eBooks/Mathematics%20for%20Machine%20Learning.pdf)
@@ -112,6 +113,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Evaluating Machine Learning Models: A Beginner's Guide to Key Concepts and Pitfalls](./Beginners/Evaluating%20Machine%20Learning%20Models.pdf)
 - [Introducing Data Science](Beginners/Introducing%20Data%20Science.pdf)
 - [Intro to Deep Learning](Beginners/Intro%20to%20Deep%20Learning.pdf)
+- [Machine Learning for Everyone](Beginners/Machine%20Learning%20for%20Everyone.pdf)
 - [R for Beginners](Beginners/R%20for%20Beginners.pdf)
 - [Tableau Visual Guide](Beginners/Tableau%20Visual%20Guidebook.pdf)
 - [The Data Engineering Cookbook](./Beginners/The%20Data%20Engineering%20Cookbook.pdf)
@@ -215,3 +217,4 @@ This repo consists of all the **resources** that I followed during my **Journey 
 
 ## Miscellaneous Resources
 - [Operating Systems: Timeline and Family Tree](https://eylenburg.github.io/os_familytree.htm)
+- [What is SSH](Miscellaneous/What%20is%20SSH.pdf)

@@ -34,6 +34,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 
 ## Course Repositories
 - [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
+- [Linux-Bootcamp](https://github.com/Elemento24/Linux-Bootcamp)
 - [Logistic-Regression-Pratical-Case-Study](https://github.com/Elemento24/Logistic-Regression-Pratical-Case-Study)
 - [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)
 - [MySQL-Bootcamp](https://github.com/Elemento24/MySQL-Bootcamp)
@@ -122,6 +123,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 ## Guides
 - [10 Data Visualizations](Guides/10%20Data%20Visualizations.pdf)
 - [A Brief Guide to ML and DS](Guides/A%20Brief%20Guide%20to%20ML%20and%20DS.pdf)
+- [Linux Guide](Guides/Linux%20Guide.pdf)
 - [List of AI Resources](Guides/List%20of%20AI%20Resources.pdf)
 - [Pet Project](Guides/Pet%20Project.pdf)
 - [Practitioner's Guide to MLOps](Guides/Practitioner's%20Guide%20to%20MLOps.pdf)
@@ -164,6 +166,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Machine Learning A-Z](https://www.udemy.com/share/101WciCEIfcVxQRXw=/)
 - [Machine Learning Practical: 6 Real World Applications](https://www.udemy.com/share/101XIsCEIfcVxQRXw=/)
 - [Natural Language Processing with BERT](https://www.udemy.com/share/102R7CCEIfcVxQRXw=/)
+- [The Linux Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
 - [The Modern Python 3 Bootcamp](https://www.udemy.com/share/101WrOCEIfcVxQRXw=/)
 - [The Ultimate MySQL Bootcamp](https://www.udemy.com/share/101Wq0CEIfcVxQRXw=/)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)

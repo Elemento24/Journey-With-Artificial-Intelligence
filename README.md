@@ -3,6 +3,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **Kaggle Competitions**
 - **Course Repositories**
 - **Case Studies**
+- **Resource Repositories** like this
 - **Project Repositories**
 - **Tools & Libraries** for AI
 - **Articles** and **Blog Posts**
@@ -54,6 +55,11 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Credit-Card-Fraud-Detection](https://github.com/Elemento24/Credit-Card-Fraud-Detection)
 - [eSigning-Classification](https://github.com/Elemento24/eSigning-Classification)
 - [Fashion Class Classification](https://github.com/Elemento24/Fashion-Class-Classification)
+
+## Resource Repositories
+- [AI Chips](https://github.com/basicmi/AI-Chip)
+- [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
+- [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
 
 ## Projects
 - [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)

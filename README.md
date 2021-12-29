@@ -126,6 +126,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [164 Data Science Questions & Answers](Job%20Interviews/164%20Data%20Science%20QA.pdf)
 - [Big Data Engineering: Interview Questions & Answers](Job%20Interviews/Big%20Data%20Engineering.pdf)
 - [Data Science Questions & Answers](./Job%20Interviews/Data%20Science%20QA.pdf)
+- [Interview Preparation DP Questions](Job%20Interviews/Interview%20Preparation%20DP%20Questions.pdf)
 - [Resumes and Cover Letters](Job%20Interviews/Resumes%20and%20Cover%20Letters.pdf)
 - [Ultimate Guide to DS Interviews](Job%20Interviews/Ultimate%20Guide%20to%20DS%20Interviews.pdf)
 

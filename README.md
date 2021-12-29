@@ -153,6 +153,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [SQL Notes](Notes/SQL%20Notes.pdf)
 
 ## Cheat Sheets
+- [AI, Neural Networks, Machine Learning, Deep Learrning & Big Data](Cheat%20Sheets/AI,%20NNs,%20ML,%20DL%20&%20Big%20Data.pdf)
 - [Cheat CODE: A Workbook to get you started with DSA](./Cheat%20Sheets/Cheat%20Code.pdf)
 - [Excel Cheat Sheet](./Cheat%20Sheets/Excel%20Cheat%20Sheet.pdf)
 - [Git Cheat Sheet](./Cheat%20Sheets/Git%20Cheat%20Sheet.pdf)

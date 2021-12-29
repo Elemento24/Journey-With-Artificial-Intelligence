@@ -90,10 +90,12 @@ This repo consists of all the **resources** that I followed during my **Journey 
 
 ## E-Books
 - [A Course in Machine Learning](eBooks/A%20Course%20in%20Machine%20Learning.pdf)
+- [A Programmer's Guide to Data Mining](eBooks/A%20Programmer's%20Guide%20to%20Data%20Mining.pdf)
 - [AI Crash Course](./eBooks/AI%20Crash%20Course.pdf)
 - [Alan Turing: The Enigma](./eBooks/Alan%20Turing%20The%20Enigma.pdf)
 - [An Introduction to Statistical Learning](eBooks/An%20Introduction%20to%20Statistical%20Learning.pdf)
-- [A Programmer's Guide to Data Mining](eBooks/A%20Programmer's%20Guide%20to%20Data%20Mining.pdf)
+- [Dive Into Deep Learning](eBooks/Dive%20Into%20Deep%20Learning.pdf)
+- [Evaluating Machine Learning Models](eBooks/Evaluating%20Machine%20Learning%20Models.pdf)
 - [Introduction to Probability for Data Science](eBooks/Introduction%20to%20Probability%20for%20Data%20Science.pdf)
 - [Learning SQL](eBooks/Learning%20SQL.pdf)
 - [Machine Learning Yearning: Andrew NG](eBooks/Machine%20Learning%20Yearning.pdf)
@@ -118,6 +120,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [R for Beginners](Beginners/R%20for%20Beginners.pdf)
 - [Tableau Visual Guide](Beginners/Tableau%20Visual%20Guidebook.pdf)
 - [The Data Engineering Cookbook](./Beginners/The%20Data%20Engineering%20Cookbook.pdf)
+- [The Data Science Booklet](./Beginners/The%20Data%20Science%20Booklet.pdf)
 - [The Natural Language Processing Cookbook](Beginners/The%20NLP%20Cookbook.pdf)
 - [Writing Code for NLP](Beginners/Writing%20Code%20for%20NLP.pdf)
 
@@ -128,6 +131,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Data Science Questions & Answers](./Job%20Interviews/Data%20Science%20QA.pdf)
 - [Interview Preparation DP Questions](Job%20Interviews/Interview%20Preparation%20DP%20Questions.pdf)
 - [Resumes and Cover Letters](Job%20Interviews/Resumes%20and%20Cover%20Letters.pdf)
+- [Top 100 Python Interview Questions](Job%20Interviews/Top%20100%20Python%20Interview%20Questions.pdf)
 - [Ultimate Guide to DS Interviews](Job%20Interviews/Ultimate%20Guide%20to%20DS%20Interviews.pdf)
 
 ## Guides
@@ -187,7 +191,6 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
 
-
 ## Youtube Videos & Playlists
 - [AI Research Talks](https://youtube.com/playlist?list=PLyI-7D0gVbJ-QiTBzUDV_qoacERhk0xQl)
 - [Data Structures](https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
@@ -202,6 +205,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 
 ## Developer's Surveys and Trends
 - [AI Index Report 2021](./Surveys%20and%20Trends/AI%20Index%20Report%202021.pdf)
+- [Computer Vision News 2021](./Surveys%20and%20Trends/Computer%20Vision%20News%202021.pdf)
 - [Tech Trends Report 2021](Surveys%20and%20Trends/Tech%20Trends%20Report%202021.pdf)
 - [The Future of AI in Australia](Surveys%20and%20Trends/The%20Future%20of%20AI%20in%20Australia.pdf)
 - [The Future of Analytics](Surveys%20and%20Trends/The%20Future%20of%20Analytics.pdf)

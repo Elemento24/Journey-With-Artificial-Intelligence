@@ -103,6 +103,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Statistics for Machine Learning](./eBooks/Statistics%20for%20Machine%20Learning.pdf)
 - [The Cartoon Guide to Statistics](eBooks/The%20Cartoon%20Guide%20to%20Statistics.pdf)
 - [The Data Science Handbook](./eBooks/The%20Data%20Science%20Handbook.pdf)
+- [The Elements of Statistical Learning](./eBooks/The%20Elements%20of%20Statistical%20Learning.pdf)
 - [Understanding Machine Learning: From Theory to Algorithms](eBooks/Understanding%20Machine%20Learning%20Theory%20Algorithms.pdf)
 
 ## Resources for Beginners

@@ -6,7 +6,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - **Resource Repositories** like this
 - **Project Repositories**
 - **Tools & Libraries** for AI
-- **Articles** and **Blog Posts**
+- **Articles**, **Blog Posts** and **Podcasts**
 - **E-books** for references
 - Resources for **Beginners**
 - Resources for **Job Interviews**
@@ -79,7 +79,8 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Tensorflow: A Machine Learning Platform](https://www.tensorflow.org/)
 - [XGBoost: A Distributed Gradient-Boosting Library](https://xgboost.readthedocs.io/en/latest/#)
 
-## Articles and Blog Posts 
+## Articles, Blog Posts and Podcasts
+- [BBC Reith Lectures 2021: Living with Artificial Intelligence](ABP/BBC%20Reith%20Lectures%202021.pdf)
 - [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
 - [GAN - StyleGAN & StyleGAN2](https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299)
 - [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)

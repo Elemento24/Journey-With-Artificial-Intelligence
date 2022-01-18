@@ -88,6 +88,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [GAN - How to measure GAN performance?](https://jonathan-hui.medium.com/gan-how-to-measure-gan-performance-64b988c47732)
 - [GAN - StyleGAN & StyleGAN2](https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299)
 - [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
+- [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 - [Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness)
 - [The Great Debate: Is it Linux or GNU/Linux?](https://www.howtogeek.com/139287/the-great-debate-is-it-linux-or-gnulinux/)
 - [The Strange Birth and Long Life of UNIX](https://spectrum.ieee.org/the-strange-birth-and-long-life-of-unix)

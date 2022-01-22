@@ -82,6 +82,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 ## Articles, Blog Posts and Podcasts
 - [BBC Reith Lectures 2021: Living with Artificial Intelligence](ABP/BBC%20Reith%20Lectures%202021.pdf)
 - [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
+- [Demystifying Spectral Embedding](https://elemento.medium.com/demystifying-spectral-embedding-b2368bba580)
 - [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
 - [Frechet Inception Distance](https://nealjean.com/ml/frechet-inception-distance/)
 - [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)

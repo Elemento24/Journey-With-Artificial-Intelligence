@@ -145,6 +145,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [A Brief Guide to ML and DS](Guides/A%20Brief%20Guide%20to%20ML%20and%20DS.pdf)
 - [Linux Guide](Guides/Linux%20Guide.pdf)
 - [List of AI Resources](Guides/List%20of%20AI%20Resources.pdf)
+- [MLOps: From Model-centric AI to Data-centric AI](Guides/MLOps%20from%20Model-centric%20to%20Data-centric%20AI.pdf)
 - [Pet Project](Guides/Pet%20Project.pdf)
 - [Practitioner's Guide to MLOps](Guides/Practitioner's%20Guide%20to%20MLOps.pdf)
 - [Tableau Tips](Guides/Tableau%20Tips.pdf)

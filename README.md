@@ -154,7 +154,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Power BI for Intermediates](Guides/Power%20BI%20for%20Intermediates.pdf)
 - [Practitioner's Guide to MLOps](Guides/Practitioner's%20Guide%20to%20MLOps.pdf)
 - [Tableau Tips](Guides/Tableau%20Tips.pdf)
-- [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](eBooks/The%20Data%20Science%20Handbook.pdf)
+- [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](./Guides/The%20Data%20Science%20Handbook.pdf)
 - [Which chart or graph is right for you?](Guides/Chart%20or%20Graph.pdf)
 - [The Ultimate Guide to Effective Data Collection](Guides/The%20Ultimate%20Guide%20to%20Effective%20Data%20Collection.pdf)
 

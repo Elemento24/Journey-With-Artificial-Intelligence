@@ -174,14 +174,14 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Python Cheat Sheet](./Cheat%20Sheets/PCS_2.pdf)
 
 ## Research Papers Read
-- [A Survey on Bias & Fairness in Machine Learning](Research%20Papers/A%20Survey%20on%20Bias%20and%20Fairness%20in%20Machine%20Learning.pdf)
-- [Adam: A Method for Stochastic Optimization](./Research%20Papers/Adam%20Stochastic%20Optimization.pdf)
-- [AlexNet: Image Classification using Deep CNNs](Research%20Papers/AlexNet%20ImageNet%20Classification.pdf)
-- [Does Object Recognition work for everyone](Research%20Papers/Does%20Object%20Recognition%20work%20for%20everyone.pdf)
-- [Fairness Definitions Explored](Research%20Papers/Fairness%20Definitions%20Explained.pdf)
-- [How to Read a Paper](Research%20Papers/How%20to%20Read%20a%20Paper.pdf)
-- [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization](./Research%20Papers/PReLU%20&%20He-et-al%20Initialization.pdf)
-- [ResNet: Deep Residual Learning for Image Recognition](Research%20Papers/ResNet%20for%20Image%20Recognition.pdf)
+- [A Survey on Bias & Fairness in Machine Learning](https://dl.acm.org/doi/abs/10.1145/3457607)
+- [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980)
+- [AlexNet: Image Classification using Deep CNNs](https://dl.acm.org/doi/abs/10.1145/3065386)
+- [Does Object Recognition work for everyone](https://openaccess.thecvf.com/content_CVPRW_2019/html/cv4gc/de_Vries_Does_Object_Recognition_Work_for_Everyone_CVPRW_2019_paper.html)
+- [Fairness Definitions Explained](https://ieeexplore.ieee.org/abstract/document/8452913)
+- [How to Read a Paper](https://dl.acm.org/doi/abs/10.1145/1273445.1273458)
+- [PReLU (Parametric Rectified Linear Unit) & He-et-al Initialization](https://openaccess.thecvf.com/content_iccv_2015/html/He_Delving_Deep_into_ICCV_2015_paper.html)
+- [ResNet: Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)
 
 ## Courses 
 - [Artificial Neural Network for Regression](https://www.udemy.com/share/102R9WCEIfcVxQRXw=/)

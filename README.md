@@ -80,6 +80,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [XGBoost: A Distributed Gradient-Boosting Library](https://xgboost.readthedocs.io/en/latest/#)
 
 ## Articles, Blog Posts and Podcasts
+- [Artificial Intelligence vs Covid-19](https://elemento.medium.com/artificial-intelligence-vs-covid-19-faeacbc2f163)
 - [BBC Reith Lectures 2021: Living with Artificial Intelligence](ABP/BBC%20Reith%20Lectures%202021.pdf)
 - [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
 - [Demystifying Spectral Embedding](https://elemento.medium.com/demystifying-spectral-embedding-b2368bba580)

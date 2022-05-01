@@ -116,6 +116,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [AI Crash Course](./eBooks/AI%20Crash%20Course.pdf)
 - [Alan Turing: The Enigma](./eBooks/Alan%20Turing%20The%20Enigma.pdf)
 - [An Introduction to Statistical Learning](eBooks/An%20Introduction%20to%20Statistical%20Learning.pdf)
+- [Data Cleaning by Ihab F. Ilyas and Xu Chu](eBooks/Data%20Cleaning%20by%20Ihab%20F.%20Ilyas%20and%20Xu%20Chu.pdf)
 - [Dive Into Deep Learning](eBooks/Dive%20Into%20Deep%20Learning.pdf)
 - [Evaluating Machine Learning Models](eBooks/Evaluating%20Machine%20Learning%20Models.pdf)
 - [Introduction to Probability for Data Science](eBooks/Introduction%20to%20Probability%20for%20Data%20Science.pdf)
@@ -160,6 +161,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 
 ## Guides
 - [10 Data Visualizations](Guides/10%20Data%20Visualizations.pdf)
+- [A Brief Guide to Data Cleaning](Guides/A%20Brief%20Guide%20to%20Data%20Cleaning.pdf)
 - [A Brief Guide to ML and DS](Guides/A%20Brief%20Guide%20to%20ML%20and%20DS.pdf)
 - [Executive Guide to Data Science and AI](Guides/Executive%20Guide%20to%20Data%20Science%20and%20AI.pdf)
 - [Linux Guide](Guides/Linux%20Guide.pdf)

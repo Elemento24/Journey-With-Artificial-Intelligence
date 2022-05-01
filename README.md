@@ -34,7 +34,10 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - These resources include **Articles, Blog Posts, Kaggle Discussions, Kaggle Kernels**, and whatever else, I find to be apt for any given competition.
 
 ## Course Repositories
+- [Applied Artificial Intelligence](https://github.com/Elemento24/Applied-AI)
 - [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
+- [Kaggle - Intro to Game AI and Reinforcement Learning](https://github.com/Elemento24/Intro-Game-AI-RL)
+- [Kaggle - Time Series](https://github.com/Elemento24/Time-Series)
 - [Linux-Bootcamp](https://github.com/Elemento24/Linux-Bootcamp)
 - [Logistic-Regression-Pratical-Case-Study](https://github.com/Elemento24/Logistic-Regression-Pratical-Case-Study)
 - [Machine-Learning-A-Z](https://github.com/Elemento24/Machine-Learning-A-Z)
@@ -47,6 +50,10 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Structuring-Machine-Learning-Projects](https://github.com/Elemento24/Structuring-Machine-Learning-Projects)
   - [Convolutional-Neural-Networks](https://github.com/Elemento24/Convolutional-Neural-Networks)
   - [Sequence Models](https://github.com/Elemento24/Sequence-Models)
+- Generative Adversarial Networks (GANs) Specialization
+  - [Build Basic GANs](https://github.com/Elemento24/Build-Basic-GANs)
+  - [Build Better GANs](https://github.com/Elemento24/Build-Better-GANs)
+  - [Apply GANs](https://github.com/Elemento24/Apply-GANs)
 
 ## Case Studies
 - [App-Behaviour-Analysis](https://github.com/Elemento24/App-Behaviour-Analysis)
@@ -80,21 +87,28 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [XGBoost: A Distributed Gradient-Boosting Library](https://xgboost.readthedocs.io/en/latest/#)
 
 ## Articles, Blog Posts and Podcasts
-- [Artificial Intelligence vs Covid-19](https://elemento.medium.com/artificial-intelligence-vs-covid-19-faeacbc2f163)
+### Recommendations
 - [BBC Reith Lectures 2021: Living with Artificial Intelligence](ABP/BBC%20Reith%20Lectures%202021.pdf)
 - [Deconvolution and Checkerboard Artifacts](https://distill.pub/2016/deconv-checkerboard/)
-- [Demystifying Spectral Embedding](https://elemento.medium.com/demystifying-spectral-embedding-b2368bba580)
-- [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
 - [Frechet Inception Distance](https://nealjean.com/ml/frechet-inception-distance/)
 - [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 - [GAN - How to measure GAN performance?](https://jonathan-hui.medium.com/gan-how-to-measure-gan-performance-64b988c47732)
 - [GAN - StyleGAN & StyleGAN2](https://jonathan-hui.medium.com/gan-stylegan-stylegan2-479bdf256299)
-- [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
 - [Machine Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 - [Machine Learning Glossary: Fairness](https://developers.google.com/machine-learning/glossary/fairness)
 - [The Great Debate: Is it Linux or GNU/Linux?](https://www.howtogeek.com/139287/the-great-debate-is-it-linux-or-gnulinux/)
 - [The Strange Birth and Long Life of UNIX](https://spectrum.ieee.org/the-strange-birth-and-long-life-of-unix)
 - [What a Machine Learning tool that turns Obama white can (and can’t) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)
+
+### My Blogs
+- [Artificial Intelligence vs Covid-19](https://elemento.medium.com/artificial-intelligence-vs-covid-19-faeacbc2f163)
+- [Ansoff Matrix - Boosting your Startup, and Case-Study of Lenskart](https://medium.com/nybles/ansoff-matrix-boosting-your-startup-and-case-study-of-lenskart-131ae6db91d2)
+- [Demystifying Spectral Embedding](https://elemento.medium.com/demystifying-spectral-embedding-b2368bba580)
+- [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
+- [India, Tesla's Next Stop](https://medium.com/developer-student-clubs-iiit-allahabad/india-teslas-next-stop-90887a588fa5)
+- [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
+- [Living with Artificial Intelligence | Part 1](https://medium.com/mlearning-ai/living-with-artificial-intelligence-part-1-371182e9935d)
+- [Living with Artificial Intelligence | Part 2](https://medium.com/mlearning-ai/living-with-artificial-intelligence-part-2-4ec1f601780f)
 
 ## E-Books
 - [A Course in Machine Learning](eBooks/A%20Course%20in%20Machine%20Learning.pdf)
@@ -190,7 +204,10 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [ResNet: Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html)
 
 ## Courses 
+- [Applied Artificial Intelligence](https://www.appliedaicourse.com/)
 - [Artificial Neural Network for Regression](https://www.udemy.com/share/102R9WCEIfcVxQRXw=/)
+- [Kaggle - Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
+- [Kaggle - Time Series](https://www.kaggle.com/learn/time-series)
 - [Logistic Regression Practical Case Study](https://www.udemy.com/share/102R7cCEIfcVxQRXw=/)
 - [Machine Learning A-Z](https://www.udemy.com/share/101WciCEIfcVxQRXw=/)
 - [Machine Learning Practical: 6 Real World Applications](https://www.udemy.com/share/101XIsCEIfcVxQRXw=/)
@@ -204,6 +221,10 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects)
   - [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks)
   - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+- [Generative Adversarial Networks (GANs) Specialization](https://www.coursera.org/specializations/generative-adversarial-networks-gans)
+  - [Build Basic GANs](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
+  - [Build Better GANs](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
+  - [Apply GANs](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
 
 ## Youtube Videos & Playlists
 - [AI Research Talks](https://youtube.com/playlist?list=PLyI-7D0gVbJ-QiTBzUDV_qoacERhk0xQl)

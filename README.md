@@ -229,7 +229,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Apply GANs](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
 
 ## Youtube Videos & Playlists
-- [AI Research Talks](https://youtube.com/playlist?list=PLyI-7D0gVbJ-QiTBzUDV_qoacERhk0xQl)
+- [AI Research & Journey Talks](https://youtube.com/playlist?list=PLyI-7D0gVbJ-QiTBzUDV_qoacERhk0xQl)
 - [Data Structures](https://youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
 - [Database Management System (DBMS)](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)
 - [Dynamic Programming | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)

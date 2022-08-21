@@ -237,6 +237,10 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [The Linux Command Line Bootcamp](https://www.udemy.com/course/the-linux-command-line-bootcamp/)
 - [The Modern Python 3 Bootcamp](https://www.udemy.com/share/101WrOCEIfcVxQRXw=/)
 - [The Ultimate MySQL Bootcamp](https://www.udemy.com/share/101Wq0CEIfcVxQRXw=/)
+- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+  - [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+  - [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+  - [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
   - [Neural Networks & Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning)
   - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization](https://www.coursera.org/learn/deep-neural-network)
@@ -247,6 +251,9 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Build Basic GANs](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
   - [Build Better GANs](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
   - [Apply GANs](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
+- [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
+  - [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning?specialization=reinforcement-learning)
+  - [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods?specialization=reinforcement-learning)
 
 ## Youtube Videos & Playlists
 - [AI Research & Journey Talks](https://youtube.com/playlist?list=PLyI-7D0gVbJ-QiTBzUDV_qoacERhk0xQl)

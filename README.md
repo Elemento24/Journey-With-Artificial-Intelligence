@@ -44,16 +44,23 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [MySQL-Bootcamp](https://github.com/Elemento24/MySQL-Bootcamp)
 - [Natural-Language-Processing-BERT](https://github.com/Elemento24/Natural-Language-Processing-BERT)
 - [Python3-Bootcamp](https://github.com/Elemento24/Python3-Bootcamp)
+- Machine Learning Specialization
+  - [Supervised-Machine-Learning](https://github.com/Elemento24/Supervised-Machine-Learning)
+  - [Advanced-Learning-Algorithms](https://github.com/Elemento24/Advanced-Learning-Algorithms)
+  - [Unsupervised-Learning-Recommenders-Reinforcement-Learning](https://github.com/Elemento24/Unsupervised-Learning-Recommenders-Reinforcement-Learning)
 - Deep Learning Specialization
   - [Neural-Networks-Deep-Learning](https://github.com/Elemento24/Neural-Networks-Deep-Learning)
   - [Improving-Deep-Neural-Networks](https://github.com/Elemento24/Improving-Deep-Neural-Networks)
   - [Structuring-Machine-Learning-Projects](https://github.com/Elemento24/Structuring-Machine-Learning-Projects)
   - [Convolutional-Neural-Networks](https://github.com/Elemento24/Convolutional-Neural-Networks)
-  - [Sequence Models](https://github.com/Elemento24/Sequence-Models)
+  - [Sequence-Models](https://github.com/Elemento24/Sequence-Models)
 - Generative Adversarial Networks (GANs) Specialization
-  - [Build Basic GANs](https://github.com/Elemento24/Build-Basic-GANs)
-  - [Build Better GANs](https://github.com/Elemento24/Build-Better-GANs)
-  - [Apply GANs](https://github.com/Elemento24/Apply-GANs)
+  - [Build-Basic-GANs](https://github.com/Elemento24/Build-Basic-GANs)
+  - [Build-Better-GANs](https://github.com/Elemento24/Build-Better-GANs)
+  - [Apply-GANs](https://github.com/Elemento24/Apply-GANs)
+- Reinforcement Learning Specialization
+  - [Fundamentals-Reinforcement-Learning](https://github.com/Elemento24/Fundamentals-Reinforcement-Learning)
+  - [Sample-Based-Learning-Methods](https://github.com/Elemento24/Sample-Based-Learning-Methods)
 
 ## Case Studies
 - [App-Behaviour-Analysis](https://github.com/Elemento24/App-Behaviour-Analysis)
@@ -66,12 +73,14 @@ This repo consists of all the **resources** that I followed during my **Journey 
 ## Resource Repositories
 - [AI Chips](https://github.com/basicmi/AI-Chip)
 - [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
+- [Research Internships for B.Tech Students](https://github.com/AnuvabSen1/Research_Internships_for_btech_students)
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
 
 ## Projects
 - [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)
 - [OpenCV | Web-Cam Paint](https://github.com/Elemento24/OpenCV-WebCam-Paint)
 - [Smart Agriculture](https://github.com/Elemento24/Smart-Agriculture)
+- [Time Series Analysis With Deep Learning Techniques and Beyond](https://github.com/Elemento24/NTU-Seismology-Artificial-Intelligence)
 
 ## Tools & Libraries for AI
 - [CatBoost: Gradient Boosting on Decision Trees](https://catboost.ai/)

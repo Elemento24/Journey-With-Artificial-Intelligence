@@ -58,6 +58,11 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Build-Basic-GANs](https://github.com/Elemento24/Build-Basic-GANs)
   - [Build-Better-GANs](https://github.com/Elemento24/Build-Better-GANs)
   - [Apply-GANs](https://github.com/Elemento24/Apply-GANs)
+- Natural Language Processing (NLP) Specialization
+  - [NLP-Classification-Vector-Spaces](https://github.com/Elemento24/NLP-Classification-Vector-Spaces)
+  - [NLP-Probabilistic-Models](https://github.com/Elemento24/NLP-Probabilistic-Models)
+  - [NLP-Sequence-Models](https://github.com/Elemento24/NLP-Sequence-Models)
+  - [NLP-Attention-Models](https://github.com/Elemento24/NLP-Attention-Models)
 - Reinforcement Learning Specialization
   - [Fundamentals-Reinforcement-Learning](https://github.com/Elemento24/Fundamentals-Reinforcement-Learning)
   - [Sample-Based-Learning-Methods](https://github.com/Elemento24/Sample-Based-Learning-Methods)
@@ -75,6 +80,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Awesome YouTube Channels](https://github.com/benthecoder/yt-channels-DS-AI-ML-CS)
 - [Research Internships for B.Tech Students](https://github.com/AnuvabSen1/Research_Internships_for_btech_students)
 - [The Incredible PyTorch](https://github.com/ritchieng/the-incredible-pytorch)
+- [Transformers Tutorials | HuggingFace](https://github.com/NielsRogge/Transformers-Tutorials)
 
 ## Projects
 - [Open CV | Virtual Paint | Document Scanner | Number Plate Detector](https://github.com/Elemento24/OpenCV-Computer-Vision-Basics)
@@ -83,12 +89,15 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Time Series Analysis With Deep Learning Techniques and Beyond](https://github.com/Elemento24/NTU-Seismology-Artificial-Intelligence)
 
 ## Tools & Libraries for AI
+- [Albumentations: Fast & Flexible Image Augmentations](https://albumentations.ai/)
 - [CatBoost: Gradient Boosting on Decision Trees](https://catboost.ai/)
 - [Category Encoders: For encoding Categorical Variables](https://contrib.scikit-learn.org/category_encoders/index.html)
+- [CausalML: Uplift Modeling & Causal Inteference Methods](https://causalml.readthedocs.io/en/latest/about.html)
 - [Dask: Parallel Computing in Python](https://docs.dask.org/en/stable/)
 - [fast.ai: Making neural nets uncool again](https://www.fast.ai/)
 - [Folium: Manipulate and Visualize data in Python](http://python-visualization.github.io/folium/)
 - [Gensim: Topic Modelling for Humans](https://radimrehurek.com/gensim/)
+- [Gymnasium: Standard API for Reinforcement Learning](https://gymnasium.farama.org/)
 - [h5py: Pythonic Interface to the HDF5 Binary Data Format](https://docs.h5py.org/en/stable/index.html)
 - [Matplotlib: Visualization with Python](https://matplotlib.org/)
 - [NumPy: Scientific Computing with Python](https://numpy.org/)
@@ -115,12 +124,14 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [What a Machine Learning tool that turns Obama white can (and can’t) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)
 
 ### My Blogs
+- [AlphaTensor: DeepMind’s Ingenious Phenom](https://medium.com/p/2528f990bc65)
 - [Artificial Intelligence vs Covid-19](https://elemento.medium.com/artificial-intelligence-vs-covid-19-faeacbc2f163)
 - [Ansoff Matrix - Boosting your Startup, and Case-Study of Lenskart](https://medium.com/nybles/ansoff-matrix-boosting-your-startup-and-case-study-of-lenskart-131ae6db91d2)
 - [Black Box vs White Box approaches to develop AI models](https://medium.com/mlearning-ai/black-box-vs-white-box-approaches-to-develop-ai-models-b07d781520b8)
 - [Demystifying Spectral Embedding](https://elemento.medium.com/demystifying-spectral-embedding-b2368bba580)
 - [Dimensionality Reduction](https://elemento.medium.com/dimensionality-reduction-c4727ad078e6)
 - [India, Tesla's Next Stop](https://medium.com/developer-student-clubs-iiit-allahabad/india-teslas-next-stop-90887a588fa5)
+- [Is India cultivating the path for SNBL Startups?](https://elemento.medium.com/is-india-cultivating-the-path-for-snbl-startups-445deef19927)
 - [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
 - [Living with Artificial Intelligence | Part 1](https://medium.com/mlearning-ai/living-with-artificial-intelligence-part-1-371182e9935d)
 - [Living with Artificial Intelligence | Part 2](https://medium.com/mlearning-ai/living-with-artificial-intelligence-part-2-4ec1f601780f)
@@ -251,6 +262,11 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Build Basic GANs](https://www.coursera.org/learn/build-basic-generative-adversarial-networks-gans)
   - [Build Better GANs](https://www.coursera.org/learn/build-better-generative-adversarial-networks-gans)
   - [Apply GANs](https://www.coursera.org/learn/apply-generative-adversarial-networks-gans)
+- [Natural Language Processing (NLP) Specialization](https://in.coursera.org/specializations/natural-language-processing)
+  - [NLP with Classification & Vector Spaces](https://in.coursera.org/learn/classification-vector-spaces-in-nlp?specialization=natural-language-processing)
+  - [NLP with Probabilistic Models](https://in.coursera.org/learn/probabilistic-models-in-nlp?specialization=natural-language-processing)
+  - [NLP with Sequence Models](https://in.coursera.org/learn/sequence-models-in-nlp?specialization=natural-language-processing)
+  - [NLP with Attention Models](https://in.coursera.org/learn/attention-models-in-nlp?specialization=natural-language-processing)
 - [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
   - [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning?specialization=reinforcement-learning)
   - [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods?specialization=reinforcement-learning)
@@ -285,6 +301,10 @@ This repo consists of all the **resources** that I followed during my **Journey 
 - [Heroes of Deep Learning: Andrew Ng interviews Yoshua Bengio](https://youtu.be/pnTLZQhFpaE)
 - [Heroes of Deep Learning: Andrew Ng interviews Yuanqing Lin](https://youtu.be/dwFcodBz_2I)
 - [My Journey Learning ML and AI through Self Study - Sachi Parikh](https://youtu.be/iN7cAHpBA9s)
+- [Heroes of NLP: Chris Manning](https://youtu.be/H343JRrncfc)
+- [Heroes of NLP: Kathleen McKeown](https://youtu.be/DffGdrfY9gI)
+- [Heroes of NLP: Oren Etzioni](https://youtu.be/PiF2Aln-L3w)
+- [Heroes of NLP: Quoc Le](https://youtu.be/KGI7K_ehHsU)
 
 ## Miscellaneous Resources
 - [Operating Systems: Timeline and Family Tree](https://eylenburg.github.io/os_familytree.htm)

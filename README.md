@@ -1,5 +1,5 @@
 # Journey with Artificial Intelligence 💡
-This repo consists of all the **resources** that I followed during my **Journey with Artificial Intelligence**. **But who am I?** I am a Novice Learner, in the world of **Machine Learning**, **Deep Learning** and **Data Science**, or simply **Artificial Intelligence**. The **resources** include 👇
+This repo consists of all the **resources** that can be referred during one's **Journey with Artificial Intelligence**. But who am I? I am a **Learning Enthusiast**, who is fascinated by the world of **Artificial Intelligence (AI)**. The **resources** include 👇
 
 
 <details>
@@ -137,6 +137,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Alan Turing: The Enigma](./eBooks/Alan%20Turing%20The%20Enigma.pdf)
   - [An Introduction to Statistical Learning](eBooks/An%20Introduction%20to%20Statistical%20Learning.pdf)
   - [Data Cleaning by Ihab F. Ilyas and Xu Chu](eBooks/Data%20Cleaning%20by%20Ihab%20F.%20Ilyas%20and%20Xu%20Chu.pdf)
+  - [Deep Learning](eBooks/Deep%20Learning.pdf)
   - [Dive Into Deep Learning](eBooks/Dive%20Into%20Deep%20Learning.pdf)
   - [Evaluating Machine Learning Models](eBooks/Evaluating%20Machine%20Learning%20Models.pdf)
   - [Introduction to Probability for Data Science](eBooks/Introduction%20to%20Probability%20for%20Data%20Science.pdf)
@@ -182,6 +183,7 @@ This repo consists of all the **resources** that I followed during my **Journey 
   <summary>Resources for Job Interviews</summary>
 
   - [100 NLP Questions](Job%20Interviews/100%20NLP%20Questions.pdf)
+  - [120 Data Science Questions](Job%20Interviews/120%20Data%20Science%20Questions.pdf)
   - [164 Data Science Questions & Answers](Job%20Interviews/164%20Data%20Science%20QA.pdf)
   - [Big Data Engineering: Interview Questions & Answers](Job%20Interviews/Big%20Data%20Engineering.pdf)
   - [Data Science Interview Questions](Job%20Interviews/Data%20Science%20Interview%20Questions.pdf)
@@ -198,8 +200,10 @@ This repo consists of all the **resources** that I followed during my **Journey 
   <summary>Guides</summary>
 
   - [10 Data Visualizations](Guides/10%20Data%20Visualizations.pdf)
+  - [20 AWS Services for ML Engineers](Guides/20%20AWS%20Services%20for%20ML%20Engineers)
   - [A Brief Guide to ML and DS](Guides/A%20Brief%20Guide%20to%20ML%20and%20DS.pdf)
   - [Executive Guide to Data Science and AI](Guides/Executive%20Guide%20to%20Data%20Science%20and%20AI.pdf)
+  - [How to Build a Career in AI](Guides/How%20to%20Build%20a%20Career%20in%20AI.pdf)
   - [Linux Guide](Guides/Linux%20Guide.pdf)
   - [List of AI Resources](Guides/List%20of%20AI%20Resources.pdf)
   - [MLOps: From Model-centric AI to Data-centric AI](Guides/MLOps%20from%20Model-centric%20to%20Data-centric%20AI.pdf)
@@ -303,10 +307,12 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Dynamic Programming | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
   - [Graph Theory | Part 1](https://youtube.com/playlist?list=PL2q4fbVm1Ik6DCzm9XZJbNwyHtHGclcEh)
   - [Graph Theory | Part 2](https://youtube.com/playlist?list=PL2q4fbVm1Ik64I3VqbVGRfl_OgYzvzt9m)
+  - [Introduction to Data-Centric AI, MIT IAP 2023](https://youtube.com/playlist?list=PLnSYPjg2dHQKdig0vVbN-ZnEU0yNJ1mo5)
   - [Machine Learning & Computer Vision Tutorials](https://youtube.com/playlist?list=PLyI-7D0gVbJ8SmYcclvol0psopXXEUtwO)
   - [Operating System](https://youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
   - [Probabilistic Machine Learning](https://youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
   - [Recursion | Algorithm & Interview Questions](https://youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY)
+  - [The Age of A.I.](https://youtube.com/playlist?list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
 </details>
 
 
@@ -347,5 +353,3 @@ This repo consists of all the **resources** that I followed during my **Journey 
   - [Operating Systems: Timeline and Family Tree](https://eylenburg.github.io/os_familytree.htm)
   - [What is SSH](Miscellaneous/What%20is%20SSH.pdf)
 </details>
-
-

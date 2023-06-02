@@ -81,13 +81,27 @@ This repo consists of all the **resources** that can be referred during one's **
   - [Gensim: Topic Modelling for Humans](https://radimrehurek.com/gensim/)
   - [Gymnasium: Standard API for Reinforcement Learning](https://gymnasium.farama.org/)
   - [h5py: Pythonic Interface to the HDF5 Binary Data Format](https://docs.h5py.org/en/stable/index.html)
+  - [Hugging Face: Build, train and deploy state-of-the-art models](https://huggingface.co/)
+  - [Imbalanced Learn: For classification with imbalanced classes](https://imbalanced-learn.org/stable/index.html)
+  - [JAX: High-Performance Array Computing](https://jax.readthedocs.io/en/latest/index.html)
+  - [Keras: An API for Deep Learning](https://keras.io/)
+  - [LightAutoML: For Automated Machine Learning](https://lightautoml.readthedocs.io/en/latest/)
+  - [LightGBM: A Gradient Boosting Framework](https://lightgbm.readthedocs.io/en/latest/)
   - [Matplotlib: Visualization with Python](https://matplotlib.org/)
+  - [NLTK: A Natural Language Toolkit](https://www.nltk.org/)
   - [NumPy: Scientific Computing with Python](https://numpy.org/)
   - [OpenCV: A Library with focus on Real-time applications](https://opencv.org/)
   - [Pandas: Data Analysis & Manipulation in Python](https://pandas.pydata.org/)
+  - [Pillow: Python Imaging Library](https://pypi.org/project/Pillow/)
   - [PyTorch: A Machine Learning Framework](https://pytorch.org/)
+  - [Roboflow: Build and Deploy Computer Vision Models](https://roboflow.com/)
   - [Scikit-Learn: Machine Learning in Python](https://scikit-learn.org/stable/)
+  - [Scikit-Multilearn: For Multi-label classification](http://scikit.ml/)
+  - [Scipy: Fundamental algorithms for Scientific Computing](https://scipy.org/)
   - [Seaborn: Statistical Data Visualization](https://seaborn.pydata.org/)
+  - [Spacy: Industrial-Strength Natural Language Processing](https://spacy.io/)
+  - [Stable Baselines: RL algorithms based on OpenAI Baselines](https://stable-baselines.readthedocs.io/en/master/index.html)
+  - [Surprise: Build and Analyze Recommender Systems for explicit rating data](https://surpriselib.com/)
   - [Tensorflow: A Machine Learning Platform](https://www.tensorflow.org/)
   - [XGBoost: A Distributed Gradient-Boosting Library](https://xgboost.readthedocs.io/en/latest/#)
 </details>
@@ -107,6 +121,7 @@ This repo consists of all the **resources** that can be referred during one's **
   - [The Great Debate: Is it Linux or GNU/Linux?](https://www.howtogeek.com/139287/the-great-debate-is-it-linux-or-gnulinux/)
   - [The Strange Birth and Long Life of UNIX](https://spectrum.ieee.org/the-strange-birth-and-long-life-of-unix)
   - [What a Machine Learning tool that turns Obama white can (and can’t) tell us about AI bias](https://www.theverge.com/21298762/face-depixelizer-ai-machine-learning-tool-pulse-stylegan-obama-bias)
+  - [What is a Vector Database?](https://www.pinecone.io/learn/vector-database/)
 </details>
 
 
@@ -124,6 +139,7 @@ This repo consists of all the **resources** that can be referred during one's **
   - [Linux VS Windows, Your Choice?](https://medium.com/developer-student-clubs-iiit-allahabad/linux-vs-windows-your-choice-76fad3ad6ce6?source=friends_link&sk=9757b12b75e464aa2b66fd4ea243f97f)
   - [Living with Artificial Intelligence | Part 1](https://medium.com/mlearning-ai/living-with-artificial-intelligence-part-1-371182e9935d)
   - [Living with Artificial Intelligence | Part 2](https://medium.com/mlearning-ai/living-with-artificial-intelligence-part-2-4ec1f601780f)
+  - [The Story of Modular](https://medium.com/mlearning-ai/the-story-of-modular-2e3ef08fdc7)
 
 </details>
 
@@ -140,6 +156,7 @@ This repo consists of all the **resources** that can be referred during one's **
   - [Deep Learning](eBooks/Deep%20Learning.pdf)
   - [Dive Into Deep Learning](eBooks/Dive%20Into%20Deep%20Learning.pdf)
   - [Evaluating Machine Learning Models](eBooks/Evaluating%20Machine%20Learning%20Models.pdf)
+  - [Everything You Always Wanted to Know About Mathematics.pdf](eBooks/Everything%20You%20Always%20Wanted%20to%20Know%20About%20Mathematics.pdf)
   - [Introduction to Probability for Data Science](eBooks/Introduction%20to%20Probability%20for%20Data%20Science.pdf)
   - [Learning SQL](eBooks/Learning%20SQL.pdf)
   - [Machine Learning Yearning: Andrew NG](eBooks/Machine%20Learning%20Yearning.pdf)
@@ -202,6 +219,7 @@ This repo consists of all the **resources** that can be referred during one's **
   - [10 Data Visualizations](Guides/10%20Data%20Visualizations.pdf)
   - [20 AWS Services for ML Engineers](Guides/20%20AWS%20Services%20for%20ML%20Engineers)
   - [A Brief Guide to ML and DS](Guides/A%20Brief%20Guide%20to%20ML%20and%20DS.pdf)
+  - [Basics of Prompt Engineering](Guides/Basics%20of%20Prompt%20Engineering.pdf)
   - [Executive Guide to Data Science and AI](Guides/Executive%20Guide%20to%20Data%20Science%20and%20AI.pdf)
   - [How to Build a Career in AI](Guides/How%20to%20Build%20a%20Career%20in%20AI.pdf)
   - [Linux Guide](Guides/Linux%20Guide.pdf)
@@ -339,11 +357,12 @@ This repo consists of all the **resources** that can be referred during one's **
   - [Heroes of Deep Learning: Andrew Ng interviews Yann LeCun](https://youtu.be/Svb1c6AkRzE)
   - [Heroes of Deep Learning: Andrew Ng interviews Yoshua Bengio](https://youtu.be/pnTLZQhFpaE)
   - [Heroes of Deep Learning: Andrew Ng interviews Yuanqing Lin](https://youtu.be/dwFcodBz_2I)
-  - [My Journey Learning ML and AI through Self Study - Sachi Parikh](https://youtu.be/iN7cAHpBA9s)
   - [Heroes of NLP: Chris Manning](https://youtu.be/H343JRrncfc)
   - [Heroes of NLP: Kathleen McKeown](https://youtu.be/DffGdrfY9gI)
   - [Heroes of NLP: Oren Etzioni](https://youtu.be/PiF2Aln-L3w)
   - [Heroes of NLP: Quoc Le](https://youtu.be/KGI7K_ehHsU)
+  - [My Journey Learning ML and AI through Self Study - Sachi Parikh](https://youtu.be/iN7cAHpBA9s)
+  - [Yann LeCun and Andrew Ng: Why the 6-month AI Pause is a Bad Idea](https://www.youtube.com/live/BY9KV8uCtj4?feature=share)
 </details>
 
 

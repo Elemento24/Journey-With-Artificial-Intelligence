@@ -20,7 +20,9 @@ This repo consists of all the **resources** that can be referred during one's **
   - [Applied Artificial Intelligence](https://github.com/Elemento24/Applied-AI)
   - [Artificial-Neural-Network-Regression](https://github.com/Elemento24/Artificial-Neural-Network-Regression)
   - [Deep-Learning-Specialization](https://github.com/Elemento24/Deep-Learning-Specialization)
+  - [DLAI-Short-Courses](https://github.com/Elemento24/DLAI-Short-Courses)
   - [Generative-Adversarial-Networks-Specialization](https://github.com/Elemento24/Generative-Adversarial-Networks-Specialization)
+  - [Generative-AI-Everyone](https://github.com/Elemento24/Generative-AI-Everyone)
   - [Kaggle - Intro to Game AI and Reinforcement Learning](https://github.com/Elemento24/Intro-Game-AI-RL)
   - [Kaggle - Time Series](https://github.com/Elemento24/Time-Series)
   - [Linux-Bootcamp](https://github.com/Elemento24/Linux-Bootcamp)
@@ -282,6 +284,7 @@ This repo consists of all the **resources** that can be referred during one's **
 
   - [Applied Artificial Intelligence](https://www.appliedaicourse.com/)
   - [Artificial Neural Network for Regression](https://www.udemy.com/share/102R9WCEIfcVxQRXw=/)
+  - [Generative AI for Everyone](https://www.coursera.org/learn/generative-ai-for-everyone/)
   - [Kaggle - Intro to Game AI and Reinforcement Learning](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
   - [Kaggle - Time Series](https://www.kaggle.com/learn/time-series)
   - [Logistic Regression Practical Case Study](https://www.udemy.com/share/102R7cCEIfcVxQRXw=/)
@@ -313,6 +316,10 @@ This repo consists of all the **resources** that can be referred during one's **
   - [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
     - [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning?specialization=reinforcement-learning)
     - [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods?specialization=reinforcement-learning)
+  - [DeepLearning.AI's Short Courses](https://www.deeplearning.ai/courses/?courses_date_desc%5BrefinementList%5D%5Bcourse_type%5D%5B0%5D=Short%20Courses#short-courses)
+    - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+    - [Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
+    - [Vector Databases, From Embeddings to Applications](https://www.deeplearning.ai/short-courses/vector-databases-embeddings-applications/)
 </details>
 
 
